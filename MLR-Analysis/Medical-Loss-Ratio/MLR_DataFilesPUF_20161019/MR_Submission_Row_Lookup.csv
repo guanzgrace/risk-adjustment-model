@@ -1,0 +1,397 @@
+﻿LOOKUP_CAT_CODE,LOOKUP_CODE,LOOKUP_NAME,LOOKUP_DESCRIPTION,SORT_ORDER,REPORTING_YEAR,FORMULA_CALC
+"PART1","ACTIVITES_TO_PREVENT_HOSP_READM","Activities to prevent hospital readmission","4.2 Activities to prevent hospital readmission",280,"2015",0
+"PART1","AGNTS_AND_BROKERS_FEES_COMMS","Agents and brokers fees and commissions","5.4 Agents and brokers fees and commissions",360,"2015",0
+"PART1","ALLOWABLE_ICD10_EXPENSES","Allowable Implementation ICD-10 expenses","4.6 Allowable Implementation ICD-10 expenses (not to exceed 0.3% of premium)",320,"2015",0
+"PART1","ACA_9010_FEE","Affordable Care Act section 9010 Fee","3.1c Affordable Care Act section 9010 Fee",200,"2015",0
+"PART1","COMMUNITY_BENEFIT_EXP","Community benefit expenditures ","5.7 Community benefit expenditures (informational only; include amounts reported in Lines 3.2c and 5.6)",400,"2015",0
+"PART1","COMMUNITY_BENEFIT_EXPENDITURES","Community benefit expenditures deductible from premium in MLR calculations","3.2c Community benefit expenditures deductible from premium in MLR calculations",240,"2015",0
+"PART1","ALL_OTHER_CLAIMS_ADJ_EXPENSES","All other claims adjustment expenses","5.2 All other claims adjustment expenses",340,"2015",0
+"PART1","ALLOWABLE_FRAUD_REDUCTION_EX_PT1","Allowable claims recovered through fraud reduction efforts","2.11 Allowable claims recovered through fraud reduction efforts (MLR Form Part 2, Line 2.17)",170,"2015",1
+"PART1","COST_CONTAINMENT_EXP_NOT_INCL","Cost containment expenses not included in quality improvement expenses in Section 4","5.1 Cost containment expenses not included in quality improvement expenses in Section 4",330,"2015",0
+"PART1","DIR_SALES_SALARIES_AND_BENEFITS","Direct sales salaries and benefits","5.3 Direct sales salaries and benefits",350,"2015",0
+"PART1","EST_REB_UNPAID_CURR_MLR_REP_YR","Estimated rebates unpaid at the end of the current MLR reporting year","2.9 Estimated rebates unpaid at the end of the MLR reporting year",150,"2015",0
+"PART1","EST_REB_UNPAID_PRIOR_MLR_REP_YR","Estimated rebates unpaid at the end of the prior MLR reporting year","2.8 Estimated rebates unpaid at the end of the previous MLR reporting year",140,"2015",0
+"PART1","FED_INCOME_TAX_DEDUCTIBLE_PREM","Federal income taxes deductible from premium in MLR calculations ","3.1a Federal income taxes deductible from premium in MLR calculations",180,"2015",0
+"PART1","FED_REINS_CONTRIBUTIONS","Federal Transitional Reinsurance Program contributions","3.3a Federal Transitional Reinsurance Program contributions",250,"2015",0
+"PART1","FEDERAL_HIGH_RISK_POOLS","Federal high risk pools","1.2 Federal high risk pools",20,"2015",0
+"PART1","FEDERAL_INCOME_TAXES","Other Federal income taxes","9.0 Other Federal income taxes (exclude taxes on Lines 3.1a-d)",490,"2015",0
+"PART1","FEE_FOR_SERVICE_AND_CO_PAY_REV","Fee-for-service and co-pay revenue","2.10 Fee-for-service and co-pay revenue (net of expenses)",160,"2015",0
+"PART1","FINES_PENLTS_OF_REG_AUTHORITIES","Fines and penalties of regulatory authorities","5.5b   Fines and penalties of regulatory authorities (exclude amounts reported in Line 3.3)",380,"2015",0
+"PART1","HITER_TO_HEALTH_IMPROVEMENT","Health information technology expenses related to improving health care quality","4.5 Health information technology expenses related to improving health care quality",310,"2015",0
+"PART1","ICD10_IMPLEMENTATION_EXPENSES","ICD-10 Implementation expenses","5.8 ICD-10 implementation expenses (informational only; include amounts reported in Lines 4.6 and 5.6)",410,"2015",0
+"PART1","INC_FROM_FEES_OF_UNINS_PLANS","Income from fees of uninsured plans","6.0 Income from fees of uninsured plans",420,"2015",0
+"PART1","IMP_PAT_SAFETY_REDUCE_MED_ERRS","Improve patient safety and reduce medical errors","4.3 Improve patient safety and reduce medical errors",290,"2015",0
+"PART1","IMPROVE_HEALTH_OUTCOMES","Improve health outcomes","4.1 Improve health outcomes",270,"2015",0
+"PART1","MEMBER_MONTHS","Member months","7.4 Member months",460,"2015",0
+"PART1","NUMBER_OF_COVERED_LIVES","Number of covered lives","7.2 Number of covered lives",440,"2015",0
+"PART1","NUMBER_OF_GROUPS","Number of groups","7.3 Number of groups",450,"2015",0
+"PART1","NUMBER_OF_LIFE_YEARS","Number of life-years","7.5 Number of life-years",470,"2015",1
+"PART1","NUMBER_OF_POLICIES_CERTIFICATES","Number of policies/certificates","7.1 Number of policies/certificates",430,"2015",0
+"PART1","OTH_ADJ_DUE_TO_MLR_CALC_CLM_INC","Other adjustments due to MLR calculation – claims incurred","2.6 Other adjustments due to MLR calculations – claims incurred",120,"2015",0
+"PART1","OTH_ADJ_MLR_CALC_PREMIUM","Other adjustments due to MLR calculations - premium","1.5 Other adjustments due to MLR calculations - premium",50,"2015",0
+"PART1","NET_ASSUMED_CEDED_REINS_PREM","Net assumed less ceded reinsurance premium earned","1.4 Net assumed less ceded reinsurance premium earned (exclude amounts already reported in Line 1.1)",40,"2015",0
+"PART1","NET_ASSUMED_LESS_CEDED_CLM_INC","Net assumed less ceded claims incurred","2.5 Net assumed less ceded claims incurred (exclude amounts already reported in Line 2.1)",110,"2015",0
+"PART1","NET_INVESTMENT_AND_OTHER_GAIN","Net investment and other gain / (loss)","8.0 Net investment and other gain/(loss)",480,"2015",0
+"PART1","OTHER_FED_TAXES_AND_ASSESSMENTS","Other Federal Taxes and assessments deductible from premium","3.1d Other Federal Taxes and assessments deductible from premium",210,"2015",0
+"PART1","OTHER_GENERAL_AND_ADM_EXPENSES","Other general and administrative expenses","5.6 Other general and administrative expenses",390,"2015",0
+"PART1","PRESCRIPTION_DRUGS","Prescription drugs ","2.2 Prescription drugs (informational only; already included in total incurred claims above)",80,"2015",0
+"PART1","PCORI_FEE","Patient Centered Outcomes Research Institute (PCORI) Fee","3.1b Patient Centered Outcomes Research Institute (PCORI) Fee",190,"2015",0
+"PART1","PHARMACEUTICAL_REBATES","Pharmaceutical rebates ","2.3 Pharmaceutical rebates (informational only; already excluded from total incurred claims above)",90,"2015",0
+"PART1","REBATES_PAID","Rebates paid","2.7 Rebates paid",130,"2015",0
+"PART1","RISK_REVENUE","Risk revenue","1.6 Risk revenue",60,"2015",0
+"PART1","STATE_HIGH_RISK_POOLS","State high risk pools","1.3 State high risk pools",30,"2015",0
+"PART1","STATE_INCOME_EXCISE_BUSINES_OTH","State income, excise, business, and other taxes","3.2a State income, excise, business, and other taxes",220,"2015",0
+"PART1","REG_AUTHORITY_LICENSES_AND_FEES","Other Federal and State regulatory authority licenses and fees","3.3b Other Federal and State regulatory authority licenses and fees",260,"2015",0
+"PART1","STATE_PREMIUM_TAXES","State premium taxes ","3.2b State premium taxes",230,"2015",0
+"PART1","STATE_STOP_LOSS_MARKET","State stop loss, market stabilization and claim/census based assessments","2.4 State stop loss, market stabilization and claim/census based assessments(informational only; already excluded from total incurred claims above)",100,"2015",0
+"PART1","STATE_TAXES_ASSMTS_NOT_EXC_PREM","Taxes and assessments","5.5a   Taxes and assessments (exclude amounts reported in Section 3 or Line 10)",370,"2015",0
+"PART1","TOTAL_INCURRED_CLAIMS_PT1","Total incurred claims","2.1 Total incurred claims (MLR Form Part 2, Line 2.16)",70,"2015",1
+"PART1","TOTAL_DIRECT_PREMIUM_EARNED","Total direct premium earned ","1.1 Total direct premium earned",10,"2015",1
+"PART1","WELLNESS_AND_HEALTH_PROM_ACTS","Wellness and health promotion activities","4.4 Wellness and health promotion activities",300,"2015",0
+"PART2","PAID_MED_INC_POOLS_BON_CURR_YR","Paid medical incentive pools and bonuses MLR Reporting year","2.11a Paid medical incentive pools and bonuses MLR Reporting year",810,"2015",0
+"PART2","TOTAL_FRAUD_REC_RED_PAID_CLAIMS","Total fraud recoveries that reduced paid claims in Line 2.1","2.17b  Total fraud recoveries that reduced paid claims in Line 2.1",920,"2015",0
+"PART2","TOTAL_FRAUD_REDUCTION_EXPENSE","Total fraud reduction expense","2.17a Total fraud reduction expense",910,"2015",0
+"PART2","TOTAL_INCURRED_CLAIMS_PT2","Total incurred claims ","2.16 Total incurred claims ",890,"2015",1
+"PART2","UNEARNED_PREMIUM_CURRENT_YEAR","Unearned premium MLR Reporting year","1.3 Unearned premium MLR Reporting year",520,"2015",0
+"PART2","UNEARNED_PREMIUM_PRIOR_YEAR","Unearned premium prior year","1.2 Unearned premium prior year",510,"2015",0
+"PART2","RES_EXP_RAT_REFUNDS_CURR_YR","Reserved in MLR reporting year regardless of incurred date","2.9a Reserved in MLR reporting year regardless of incurred date",780,"2015",0
+"PART2","RES_EXP_RAT_REFUNDS_PRIOR_YR","Reserve for experience rating refunds (rate credits) prior year","2.10 Reserve for experience rating refunds (rate credits) prior year",800,"2015",0
+"PART2","RES_EXP_RAT_REFUNDS_Q1","Reserves specific to the MLR reporting year through 3/31 of the following year","2.9b Reserves specific to the MLR reporting year through 3/31 of the following year",790,"2015",0
+"PART2","PREM_ASSUMED_UNDER_100_REINS","Premium assumed under 100% reinsurance ","1.13 Premium assumed under 100% reinsurance (informational only; already included in Lines 1.1-1.11)",630,"2015",0
+"PART2","PREM_CEDED_UNDER_100_REINS","Premium ceded under 100% reinsurance ","1.12 Premium ceded under 100% reinsurance (informational only; already excluded from Lines 1.1-1.11)",620,"2015",0
+"PART2","PREMIUM_BALANCES_WRITTEN_OFF","Premium balances written off","1.7 Premium balances written off",570,"2015",0
+"PART2","PRE_GROUP_CONVERSION_CHARGES","Group conversion charges","1.8 Group conversion charges",580,"2015",0
+"PART2","PRE_RES_EXP_RAT_REF_CURR_YR","Reserve for experience rating refunds (rate credits) MLR Reporting year","1.5 Reserve for experience rating refunds (rate credits) MLR Reporting year",550,"2015",0
+"PART2","PRE_RES_EXP_RAT_REF_PRIOR_YR","Reserve for experience rating refunds (rate credits) prior year","1.6 Reserve for experience rating refunds (rate credits) prior year",560,"2015",0
+"PART2","GROUP_CONVERSION_CHARGES","Group conversion charges","2.14 Group conversion charges",870,"2015",0
+"PART2","HEALTHCARE_RECEIVABLES_CURR_YR","Healthcare receivables MLR Reporting year","2.12a Healthcare receivables MLR Reporting year",840,"2015",0
+"PART2","HEALTHCARE_RECEIVABLES_PRIOR_YR","Healthcare receivables prior year","2.12b Healthcare receivables prior year",850,"2015",0
+"PART2","FED_REINS_PAYMENTS","Federal Transitional Reinsurance Program payments expected from HHS (as indicated by HHS as of 6/30)","1.9 Federal Transitional Reinsurance Program payments expected from HHS (as indicated by HHS as of 6/30)",590,"2015",0
+"PART2","FED_RISK_ADJ_NET_PAYMENTS","Federal Risk Adjustment Program net payments expected from HHS / (charges payable to HHS) (as indicated by HHS as of 6/30)","1.10 Federal Risk Adjustment Program net payments expected from HHS/(charges payable to HHS) (as indicated by HHS as of 6/30)",600,"2015",0
+"PART2","FED_RISK_CORR_NET_PAYMENTS","Federal Risk Corridors Program net payments / (charges)","1.11 Federal Risk Corridors Program net payments/(charges)",610,"2015",0
+"PART2","EXP_RAT_REF_INC_REP_YR_FOLL_YR","Experience rating refunds associated with premium earned only in the reporting year and paid through 3/31 of the following year","2.8b Experience rating refunds associated with premium earned only in the reporting year and paid through 3/31 of the following year",770,"2015",0
+"PART2","EXP_RAT_REFUNDS_INC_DATE_REP_YR","Experience rating refunds, with all incurred dates, paid in the MLR reporting year","2.8a Experience rating refunds, with all incurred dates, paid in the MLR reporting year",760,"2015",0
+"PART2","EXP_RATING_REFUNDS_PAID_REP_YR","Experience rating refunds, with all incurred dates, paid in the MLR reporting year","1.4a Experience rating refunds, with all incurred dates, paid in the MLR reporting year",530,"2015",0
+"PART2","EXP_RATING_REFUNDS_PAID_YR_Q1","Experience rating refunds associated with premium earned only in the reporting year and paid through 3/31 of the following year","1.4b Experience rating refunds associated with premium earned only in the reporting year and paid through 3/31 of the following year",540,"2015",0
+"PART2","CSR","Reconciled payments of cost-sharing reductions","2.18 Reconciled payments of cost-sharing reductions",930,"2015",0
+"PART2","DIRECT_PREMIUM_WRITTEN","Direct premium written","1.1 Direct premium written",500,"2015",0
+"PART2","ALLOWABLE_FRAUD_REDUCTION_EXP","Allowable claims recovered through fraud reduction efforts (the smaller of Lines 2.17a or 2.17b)","2.17 Allowable claims recovered through fraud reduction efforts (the smaller of Lines 2.17a or 2.17b)",900,"2015",1
+"PART2","APTC","Advance payments of the premium tax credit received from HHS","1.14 Advance payments of the premium tax credit received from HHS (informational only; already included in Lines 1.1-1.11)",640,"2015",0
+"PART2","DIR_CLAIM_LIABILITY_CURR_YR","Liability as of 12/31 of MLR reporting year for all claims regardless of incurred date","2.2a Liability as of 12/31 of MLR reporting year for all claims regardless of incurred date",670,"2015",0
+"PART2","DIR_CLAIM_LIABILITY_PRIOR_YR","Direct claim liability prior year","2.3 Direct claim liability prior year",690,"2015",0
+"PART2","DIR_CLAIM_LIABILITY_Q1","Liability for claims incurred only during the MLR reporting year, calculated as of 3/31 of the following year","2.2b Liability for claims incurred only during the MLR reporting year, calculated as of 3/31 of the following year",680,"2015",0
+"PART2","DIR_CLAIM_RESERVES_CURR_YR","Reserves as of 12/31 of MLR reporting year for all claims regardless of incurred date","2.4a Reserves as of 12/31 of MLR reporting year for all claims regardless of incurred date",700,"2015",0
+"PART2","DIR_CLAIM_RESERVES_PRIOR_YR","Direct claim reserves prior year","2.5 Direct claim reserves prior year",720,"2015",0
+"PART2","DIR_CLAIM_RESERVES_Q1","Reserves for claims incurred only during the MLR reporting year, calculated as of 3/31 of the following year","2.4b Reserves for claims incurred only during the MLR reporting year, calculated as of 3/31 of the following year",710,"2015",0
+"PART2","DIR_CONTRACT_RESERVES_CURR_YR","Direct contract reserves 12/31 column","2.6a Direct contract reserves 12/31 column",730,"2015",0
+"PART2","DIR_CONTRACT_RESERVES_PRIOR_YR","Direct contract reserves prior year","2.7 Direct contract reserves prior year",750,"2015",0
+"PART2","DIR_CONTRACT_RESERVES_Q1","Direct contract reserves 3/31, dual contract, deferred columns","2.6b Direct contract reserves 3/31, dual contract, deferred columns",740,"2015",0
+"PART2","CONTINGENT_BEN_LAWSUIT_RESERVE","Contingent benefit and lawsuit reserves","2.13 Contingent benefit and lawsuit reserves",860,"2015",0
+"PART2","ACC_MED_INC_POOLS_BON_CURR_YR"," Accrued medical incentive pools and bonuses MLR Reporting year","2.11b Accrued medical incentive pools and bonuses MLR Reporting year",820,"2015",0
+"PART2","ACC_MED_INC_POOLS_BON_PRIOR_YR","Accrued medical incentive pools and bonuses prior year","2.11c Accrued medical incentive pools and bonuses prior year",830,"2015",0
+"PART2","BLENDED_RATE_ADJUSTMENT","Blended rate adjustment","2.15 Blended rate adjustment",880,"2015",0
+"PART2","CLM_ALL_INCU_DATES_PAID_REP_YR","Claims paid during the MLR reporting year regardless of incurred date","2.1a Claims paid during the MLR reporting year regardless of incurred date",650,"2015",0
+"PART2","CLM_INC_REP_YR_AND_FOLL_YR","Claims incurred only during the MLR reporting year, paid through 3/31 of the following year","2.1b Claims incurred only during the MLR reporting year, paid through 3/31 of the following year",660,"2015",0
+"PART4","COMM_BEN_EXP_NOT_FOR_PROFIT_1","2.c.1 Community benefit expenditures ","2.c.1 Community benefit expenditures ",1260,"2015",0
+"PART4","COMM_BEN_EXP_NOT_FOR_PROFIT_2","2.c.2 Community benefit expenditures","2.c.2 Community benefit expenditures",1270,"2015",0
+"PART4","COMM_BEN_EXP_NOT_FOR_PROFIT_3","2.c.3 Community benefit expenditures","2.c.3 Community benefit expenditures",1280,"2015",0
+"PART4","COMM_BEN_EXP_NOT_FOR_PROFIT_4","2.c.4 Community benefit expenditures","2.c.4 Community benefit expenditures",1290,"2015",0
+"PART4","COMM_BEN_EXP_NOT_FOR_PROFIT_5","2.c.5 Community benefit expenditures","2.c.5 Community benefit expenditures",1300,"2015",0
+"PART4","COMM_BEN_EXP_NOT_FOR_PROFIT_6","2.c.6 Community benefit expenditures ","2.c.6 Community benefit expenditures ",1310,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_1","3.b.1 Activites to prevent hospital readmission","3.b.1 Activites to prevent hospital readmission",1480,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_10","3.b.10 Activites to prevent hospital readmission","3.b.10 Activites to prevent hospital readmission",1570,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_2","3.b.2 Activites to prevent hospital readmission","3.b.2 Activites to prevent hospital readmission",1490,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_3","3.b.3 Activites to prevent hospital readmission","3.b.3 Activites to prevent hospital readmission",1500,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_4","3.b.4 Activites to prevent hospital readmission","3.b.4 Activites to prevent hospital readmission",1510,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_5","3.b.5 Activites to prevent hospital readmission","3.b.5 Activites to prevent hospital readmission",1520,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_6","3.b.6 Activites to prevent hospital readmission","3.b.6 Activites to prevent hospital readmission",1530,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_7","3.b.7 Activites to prevent hospital readmission","3.b.7 Activites to prevent hospital readmission",1540,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_8","3.b.8 Activites to prevent hospital readmission","3.b.8 Activites to prevent hospital readmission",1550,"2015",0
+"PART4","ACT_PREVENT_HOSP_READM_9","3.b.9 Activites to prevent hospital readmission","3.b.9 Activites to prevent hospital readmission",1560,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_1","3.f.1 Allowable ICD-10 Expenses","3.f.1 Allowable ICD-10 Expenses",1880,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_10","3.f.10 Allowable ICD-10 Expenses","3.f.10 Allowable ICD-10 Expenses",1970,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_2","3.f.2 Allowable ICD-10 Expenses","3.f.2 Allowable ICD-10 Expenses",1890,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_3","3.f.3 Allowable ICD-10 Expenses","3.f.3 Allowable ICD-10 Expenses",1900,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_4","3.f.4Allowable ICD-10 Expenses","3.f.4Allowable ICD-10 Expenses",1910,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_5","3.f.5 Allowable ICD-10 Expenses","3.f.5 Allowable ICD-10 Expenses",1920,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_6","3.f.6 Allowable ICD-10 Expenses","3.f.6 Allowable ICD-10 Expenses",1930,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_7","3.f.7 Allowable ICD-10 Expenses","3.f.7 Allowable ICD-10 Expenses",1940,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_8","3.f.8 Allowable ICD-10 Expenses","3.f.8 Allowable ICD-10 Expenses",1950,"2015",0
+"PART4","ALLOWABLE_ICD10_EXPENSES_9","3.f.9 Allowable ICD-10 Expenses","3.f.9 Allowable ICD-10 Expenses",1960,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_1","4.d.1 Agents and brokers fees and commissions","4.d.1 Agents and brokers fees and commissions",2280,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_10","4.d.10 Agents and brokers fees and commissions","4.d.10 Agents and brokers fees and commissions",2370,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_2","4.d.2 Agents and brokers fees and commissions","4.d.2 Agents and brokers fees and commissions",2290,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_3","4.d.3 Agents and brokers fees and commissions","4.d.3 Agents and brokers fees and commissions",2300,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_4","4.d.4 Agents and brokers fees and commissions","4.d.4 Agents and brokers fees and commissions",2310,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_5","4.d.5 Agents and brokers fees and commissions","4.d.5 Agents and brokers fees and commissions",2320,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_6","4.d.6 Agents and brokers fees and commissions","4.d.6 Agents and brokers fees and commissions",2330,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_7","4.d.7 Agents and brokers fees and commissions","4.d.7 Agents and brokers fees and commissions",2340,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_8","4.d.8 Agents and brokers fees and commissions","4.d.8 Agents and brokers fees and commissions",2350,"2015",0
+"PART4","AGTS_AND_BRKRS_FEES_AND_COMM_9","4.d.9 Agents and brokers fees and commissions","4.d.9 Agents and brokers fees and commissions",2360,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_1","4.b.1 All other claims adjustment expenses","4.b.1 All other claims adjustment expenses",2080,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_10","4.b.10 All other claims adjustment expenses","4.b.10 All other claims adjustment expenses",2170,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_2","4.b.2 All other claims adjustment expenses","4.b.2 All other claims adjustment expenses",2090,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_3","4.b.3 All other claims adjustment expenses","4.b.3 All other claims adjustment expenses",2100,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_4","4.b.4 All other claims adjustment expenses","4.b.4 All other claims adjustment expenses",2110,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_5","4.b.5 All other claims adjustment expenses","4.b.5 All other claims adjustment expenses",2120,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_6","4.b.6 All other claims adjustment expenses","4.b.6 All other claims adjustment expenses",2130,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_7","4.b.7 All other claims adjustment expenses","4.b.7 All other claims adjustment expenses",2140,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_8","4.b.8 All other claims adjustment expenses","4.b.8 All other claims adjustment expenses",2150,"2015",0
+"PART4","ALL_OTH_CLAIMS_ADJ_EXP_9","4.b.9 All other claims adjustment expenses","4.b.9 All other claims adjustment expenses",2160,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_1","4.a.1 Cost containment expenses not included in quality improvement expenses","4.a.1 Cost containment expenses not included in quality improvement expenses",1980,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_10","4.a.10 Cost containment expenses not included in quality improvement expenses","4.a.10 Cost containment expenses not included in quality improvement expenses",2070,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_2","4.a.2 Cost containment expenses not included in quality improvement expenses","4.a.2 Cost containment expenses not included in quality improvement expenses",1990,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_3","4.a.3 Cost containment expenses not included in quality improvement expenses","4.a.3 Cost containment expenses not included in quality improvement expenses",2000,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_4","4.a.4 Cost containment expenses not included in quality improvement expenses","4.a.4 Cost containment expenses not included in quality improvement expenses",2010,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_5","4.a.5 Cost containment expenses not included in quality improvement expenses","4.a.5 Cost containment expenses not included in quality improvement expenses",2020,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_6","4.a.6 Cost containment expenses not included in quality improvement expenses","4.a.6 Cost containment expenses not included in quality improvement expenses",2030,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_7","4.a.7 Cost containment expenses not included in quality improvement expenses","4.a.7 Cost containment expenses not included in quality improvement expenses",2040,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_8","4.a.8 Cost containment expenses not included in quality improvement expenses","4.a.8 Cost containment expenses not included in quality improvement expenses",2050,"2015",0
+"PART4","COST_CONT_EXP_INC_QTY_IMP_EXP_9","4.a.9 Cost containment expenses not included in quality improvement expenses","4.a.9 Cost containment expenses not included in quality improvement expenses",2060,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_1","4.g.1 Community benefit expenditures","4.g.1 Community benefit expenditures",2580,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_10","4.g.10 Community benefit expenditures","4.g.10 Community benefit expenditures",2670,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_2","4.g.2 Community benefit expenditures","4.g.2 Community benefit expenditures",2590,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_3","4.g.3 Community benefit expenditures","4.g.3 Community benefit expenditures",2600,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_4","4.g.4 Community benefit expenditures","4.g.4 Community benefit expenditures",2610,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_5","4.g.5 Community benefit expenditures","4.g.5 Community benefit expenditures",2620,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_6","4.g.6 Community benefit expenditures","4.g.6 Community benefit expenditures",2630,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_7","4.g.7 Community benefit expenditures","4.g.7 Community benefit expenditures",2640,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_8","4.g.8 Community benefit expenditures","4.g.8 Community benefit expenditures",2650,"2015",0
+"PART4","COMMUNITY_BENEFIT_EXP_9","4.g.9 Community benefit expenditures","4.g.9 Community benefit expenditures",2660,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_1","4.c.1 Direct sales salaries and benefits","4.c.1 Direct sales salaries and benefits",2180,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_10","4.c.10 Direct sales salaries and benefits","4.c.10 Direct sales salaries and benefits",2270,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_2","4.c.2 Direct sales salaries and benefits","4.c.2 Direct sales salaries and benefits",2190,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_3","4.c.3 Direct sales salaries and benefits","4.c.3 Direct sales salaries and benefits",2200,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_4","4.c.4 Direct sales salaries and benefits","4.c.4 Direct sales salaries and benefits",2210,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_5","4.c.5 Direct sales salaries and benefits","4.c.5 Direct sales salaries and benefits",2220,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_6","4.c.6 Direct sales salaries and benefits","4.c.6 Direct sales salaries and benefits",2230,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_7","4.c.7 Direct sales salaries and benefits","4.c.7 Direct sales salaries and benefits",2240,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_8","4.c.8 Direct sales salaries and benefits","4.c.8 Direct sales salaries and benefits",2250,"2015",0
+"PART4","DIRECT_SALES_SAL_AND_BEN_9","4.c.9 Direct sales salaries and benefits","4.c.9 Direct sales salaries and benefits",2260,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_1","3.e.1 Health Information Technology expenses related to health improvement","3.e.1 Health Information Technology expenses related to healthcare quality",1780,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_10","3.e.10 Health Information Technology expenses related to health improvement","3.e.10 Health Information Technology expenses related to healthcare quality",1870,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_2","3.e.2 Health Information Technology expenses related to health improvement","3.e.2 Health Information Technology expenses related to healthcare quality",1790,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_3","3.e.3 Health Information Technology expenses related to health improvement","3.e.3 Health Information Technology expenses related to healthcare quality",1800,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_4","3.e.4 Health Information Technology expenses related to health improvement","3.e.4 Health Information Technology expenses related to healthcare quality",1810,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_5","3.e.5 Health Information Technology expenses related to health improvement","3.e.5 Health Information Technology expenses related to healthcare quality",1820,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_6","3.e.6 Health Information Technology expenses related to health improvement","3.e.6 Health Information Technology expenses related to healthcare quality",1830,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_7","3.e.7 Health Information Technology expenses related to health improvement","3.e.7 Health Information Technology expenses related to healthcare quality",1840,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_8","3.e.8 Health Information Technology expenses related to health improvement","3.e.8 Health Information Technology expenses related to healthcare quality",1850,"2015",0
+"PART4","HIT_EXP_RELATED_TO_HEALTH_IMP_9","3.e.9 Health Information Technology expenses related to health improvement","3.e.9 Health Information Technology expenses related to healthcare quality",1860,"2015",0
+"PART4","INCURRED_CLAIMS_1","1.1.  Incurred Claims","1.1.  Incurred Claims",940,"2015",0
+"PART4","INCURRED_CLAIMS_10","1.10.  Incurred Claims","1.10.  Incurred Claims",1030,"2015",0
+"PART4","INCURRED_CLAIMS_11","1.11.  Incurred Claims","1.11.  Incurred Claims",1040,"2015",0
+"PART4","INCURRED_CLAIMS_12","1.12.  Incurred Claims","1.12.  Incurred Claims",1050,"2015",0
+"PART4","INCURRED_CLAIMS_13","1.13.  Incurred Claims","1.13.  Incurred Claims",1060,"2015",0
+"PART4","INCURRED_CLAIMS_14","1.14.  Incurred Claims","1.14.  Incurred Claims",1070,"2015",0
+"PART4","INCURRED_CLAIMS_15","1.15.  Incurred Claims","1.15.  Incurred Claims",1080,"2015",0
+"PART4","INCURRED_CLAIMS_16","1.16.  Incurred Claims","1.16.  Incurred Claims",1090,"2015",0
+"PART4","INCURRED_CLAIMS_17","1.17.  Incurred Claims","1.17.  Incurred Claims",1100,"2015",0
+"PART4","INCURRED_CLAIMS_18","1.18.  Incurred Claims","1.18.  Incurred Claims",1110,"2015",0
+"PART4","INCURRED_CLAIMS_19","1.19.  Incurred Claims","1.19.  Incurred Claims",1120,"2015",0
+"PART4","INCURRED_CLAIMS_2","1.2.  Incurred Claims","1.2.  Incurred Claims",950,"2015",0
+"PART4","INCURRED_CLAIMS_20","1.20.  Incurred Claims","1.20.  Incurred Claims",1130,"2015",0
+"PART4","INCURRED_CLAIMS_3","1.3.  Incurred Claims","1.3.  Incurred Claims",960,"2015",0
+"PART4","INCURRED_CLAIMS_4","1.4.  Incurred Claims","1.4.  Incurred Claims",970,"2015",0
+"PART4","INCURRED_CLAIMS_5","1.5.  Incurred Claims","1.5.  Incurred Claims",980,"2015",0
+"PART4","INCURRED_CLAIMS_6","1.6.  Incurred Claims","1.6.  Incurred Claims",990,"2015",0
+"PART4","INCURRED_CLAIMS_7","1.7.  Incurred Claims","1.7.  Incurred Claims",1000,"2015",0
+"PART4","INCURRED_CLAIMS_8","1.8.  Incurred Claims","1.8.  Incurred Claims",1010,"2015",0
+"PART4","INCURRED_CLAIMS_9","1.9.  Incurred Claims","1.9.  Incurred Claims",1020,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_1","3.c.1 Improve patient safety and reduce medical errors","3.c.1 Improve patient safety and reduce medical errors",1580,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_10","3.c.10 Improve patient safety and reduce medical errors","3.c.10 Improve patient safety and reduce medical errors",1670,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_2","3.c.2 Improve patient safety and reduce medical errors","3.c.2 Improve patient safety and reduce medical errors",1590,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_3","3.c.3 Improve patient safety and reduce medical errors","3.c.3 Improve patient safety and reduce medical errors",1600,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_4","3.c.4 Improve patient safety and reduce medical errors","3.c.4 Improve patient safety and reduce medical errors",1610,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_5","3.c.5 Improve patient safety and reduce medical errors","3.c.5 Improve patient safety and reduce medical errors",1620,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_6","3.c.6 Improve patient safety and reduce medical errors","3.c.6 Improve patient safety and reduce medical errors",1630,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_7","3.c.7 Improve patient safety and reduce medical errors","3.c.7 Improve patient safety and reduce medical errors",1640,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_8","3.c.8 Improve patient safety and reduce medical errors","3.c.8 Improve patient safety and reduce medical errors",1650,"2015",0
+"PART4","IMP_PAT_SAFETY_REDUCE_MED_ERR_9","3.c.9 Improve patient safety and reduce medical errors","3.c.9 Improve patient safety and reduce medical errors",1660,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_1","4.h.1 ICD-10 implementation expenses","4.h.1 ICD-10 implementation expenses",2680,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_10","4.h.10 ICD-10 implementation expenses","4.h.10 ICD-10 implementation expenses",2770,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_2","4.h.2 ICD-10 implementation expenses","4.h.2 ICD-10 implementation expenses",2690,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_3","4.h.3 ICD-10 implementation expenses","4.h.3 ICD-10 implementation expenses",2700,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_4","4.h.4 ICD-10 implementation expenses","4.h.4 ICD-10 implementation expenses",2710,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_5","4.h.5 ICD-10 implementation expenses","4.h.5 ICD-10 implementation expenses",2720,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_6","4.h.6 ICD-10 implementation expenses","4.h.6 ICD-10 implementation expenses",2730,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_7","4.h.7 ICD-10 implementation expenses","4.h.7 ICD-10 implementation expenses",2740,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_8","4.h.8 ICD-10 implementation expenses","4.h.8 ICD-10 implementation expenses",2750,"2015",0
+"PART4","ICD_10_IMPLEMENTATION_EXP_9","4.h.9 ICD-10 implementation expenses","4.h.9 ICD-10 implementation expenses",2760,"2015",0
+"PART4","OTHER_TAXES_1","4.e.1 Other taxes","4.e.1 Other taxes",2380,"2015",0
+"PART4","OTHER_TAXES_10","4.e.10 Other taxes","4.e.10 Other taxes",2470,"2015",0
+"PART4","OTHER_TAXES_2","4.e.2 Other taxes","4.e.2 Other taxes",2390,"2015",0
+"PART4","OTHER_TAXES_3","4.e.3 Other taxes","4.e.3 Other taxes",2400,"2015",0
+"PART4","OTHER_TAXES_4","4.e.4 Other taxes","4.e.4 Other taxes",2410,"2015",0
+"PART4","OTHER_TAXES_5","4.e.5 Other taxes","4.e.5 Other taxes",2420,"2015",0
+"PART4","OTHER_TAXES_6","4.e.6 Other taxes","4.e.6 Other taxes",2430,"2015",0
+"PART4","OTHER_TAXES_7","4.e.7 Other taxes","4.e.7 Other taxes",2440,"2015",0
+"PART4","OTHER_TAXES_8","4.e.8 Other taxes","4.e.8 Other taxes",2450,"2015",0
+"PART4","OTHER_TAXES_9","4.e.9 Other taxes","4.e.9 Other taxes",2460,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_1","4.f.1 Other general and administrative expenses","4.f.1 Other general and administrative expenses",2480,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_10","4.f.10 Other general and administrative expenses","4.f.10 Other general and administrative expenses",2570,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_2","4.f.2 Other general and administrative expenses","4.f.2 Other general and administrative expenses",2490,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_3","4.f.3 Other general and administrative expenses","4.f.3 Other general and administrative expenses",2500,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_4","4.f.4 Other general and administrative expenses","4.f.4 Other general and administrative expenses",2510,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_5","4.f.5 Other general and administrative expenses","4.f.5 Other general and administrative expenses",2520,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_6","4.f.6 Other general and administrative expenses","4.f.6 Other general and administrative expenses",2530,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_7","4.f.7 Other general and administrative expenses","4.f.7 Other general and administrative expenses",2540,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_8","4.f.8 Other general and administrative expenses","4.f.8 Other general and administrative expenses",2550,"2015",0
+"PART4","OTH_GEN_AND_ADM_EXPENSES_9","4.f.9 Other general and administrative expenses","4.f.9 Other general and administrative expenses",2560,"2015",0
+"PART4","FED_TAXES_AND_ASSESSMENTS_1","2.a.1 Federal taxes and assessments","2.a.1 Federal taxes and assessments",1140,"2015",0
+"PART4","FED_TAXES_AND_ASSESSMENTS_2","2.a.2 Federal taxes and assessments","2.a.2 Federal taxes and assessments",1150,"2015",0
+"PART4","FED_TAXES_AND_ASSESSMENTS_3","2.a.3 Federal taxes and assessments","2.a.3 Federal taxes and assessments",1160,"2015",0
+"PART4","FED_TAXES_AND_ASSESSMENTS_4","2.a.4 Federal taxes and assessments","2.a.4 Federal taxes and assessments",1170,"2015",0
+"PART4","FED_TAXES_AND_ASSESSMENTS_5","2.a.5 Federal taxes and assessments","2.a.5 Federal taxes and assessments",1180,"2015",0
+"PART4","FED_TAXES_AND_ASSESSMENTS_6","2.a.6 Federal taxes and assessments","2.a.6 Federal taxes and assessments",1190,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_1","3.a.1 Improve health outcomes","3.a.1 Improve health outcomes",1380,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_10","3.a.10 Improve health outcomes","3.a.10 Improve health outcomes",1470,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_2","3.a.2 Improve health outcomes","3.a.2 Improve health outcomes",1390,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_3","3.a.3 Improve health outcomes","3.a.3 Improve health outcomes",1400,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_4","3.a.4 Improve health outcomes","3.a.4 Improve health outcomes",1410,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_5","3.a.5 Improve health outcomes","3.a.5 Improve health outcomes",1420,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_6","3.a.6 Improve health outcomes","3.a.6 Improve health outcomes",1430,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_7","3.a.7 Improve health outcomes","3.a.7 Improve health outcomes",1440,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_8","3.a.8 Improve health outcomes","3.a.8 Improve health outcomes",1450,"2015",0
+"PART4","IMPROVE_HEALTH_OUTCOMES_9","3.a.9 Improve health outcomes","3.a.9 Improve health outcomes",1460,"2015",0
+"PART4","REG_AUTHORITY_LIC_FEES_1","2.d.1 Regulatory authority licenses and fees","2.d.1 Regulatory authority licenses and fees",1320,"2015",0
+"PART4","REG_AUTHORITY_LIC_FEES_2","2.d.2 Regulatory authority licenses and fees","2.d.2 Regulatory authority licenses and fees",1330,"2015",0
+"PART4","REG_AUTHORITY_LIC_FEES_3","2.d.3 Regulatory authority licenses and fees","2.d.3 Regulatory authority licenses and fees",1340,"2015",0
+"PART4","REG_AUTHORITY_LIC_FEES_4","2.d.4 Regulatory authority licenses and fees","2.d.4 Regulatory authority licenses and fees",1350,"2015",0
+"PART4","REG_AUTHORITY_LIC_FEES_5","2.d.5 Regulatory authority licenses and fees","2.d.5 Regulatory authority licenses and fees",1360,"2015",0
+"PART4","REG_AUTHORITY_LIC_FEES_6","2.d.6 Regulatory authority licenses and fees","2.d.6 Regulatory authority licenses and fees",1370,"2015",0
+"PART4","STATE_INS_PREM_OTH_TAXES_1","2.b.1 State insurance, premium and other taxes","2.b.1 State insurance, premium and other taxes",1200,"2015",0
+"PART4","STATE_INS_PREM_OTH_TAXES_2","2.b.2 State insurance, premium and other taxes","2.b.2 State insurance, premium and other taxes",1210,"2015",0
+"PART4","STATE_INS_PREM_OTH_TAXES_3","2.b.3 State insurance, premium and other taxes","2.b.3 State insurance, premium and other taxes",1220,"2015",0
+"PART4","STATE_INS_PREM_OTH_TAXES_4","2.b.4 State insurance, premium and other taxes","2.b.4 State insurance, premium and other taxes",1230,"2015",0
+"PART4","STATE_INS_PREM_OTH_TAXES_5","2.b.5 State insurance, premium and other taxes","2.b.5 State insurance, premium and other taxes",1240,"2015",0
+"PART4","STATE_INS_PREM_OTH_TAXES_6","2.b.6 State insurance, premium and other taxes","2.b.6 State insurance, premium and other taxes",1250,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_1","3.d.1 Wellness and health promotion activities","3.d.1 Wellness and health promotion activities",1680,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_10","3.d.10 Wellness and health promotion activities","3.d.10 Wellness and health promotion activities",1770,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_2","3.d.2 Wellness and health promotion activities","3.d.2 Wellness and health promotion activities",1690,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_3","3.d.3 Wellness and health promotion activities","3.d.3 Wellness and health promotion activities",1700,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_4","3.d.4 Wellness and health promotion activities","3.d.4 Wellness and health promotion activities",1710,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_5","3.d.5 Wellness and health promotion activities","3.d.5 Wellness and health promotion activities",1720,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_6","3.d.6 Wellness and health promotion activities","3.d.6 Wellness and health promotion activities",1730,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_7","3.d.7 Wellness and health promotion activities","3.d.7 Wellness and health promotion activities",1740,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_8","3.d.8 Wellness and health promotion activities","3.d.8 Wellness and health promotion activities",1750,"2015",0
+"PART4","WELLNESS_AND_HEALTH_PROM_ACT_9","3.d.9 Wellness and health promotion activities","3.d.9 Wellness and health promotion activities",1760,"2015",0
+"PART5","TP_ADJ_INCURRED_CLAIMS_Q1","7.2a  Reserved for future use","7.2b  Adjusted incurred claims from the prior year, restated as of 3/31 of the year following the benefit year",3280,"2015",0
+"PART5","TP_COVERED_LIVES","7.2f  Reserved for future use","7.2f  Reserved for future use",3340,"2015",0
+"PART5","TP_FED_STATE_TAXES_LIC_REG_FEE","7.2d  Reserved for future use","7.2d  Reserved for future use",3320,"2015",0
+"PART5","TP_LIFE_YEARS","7.2e  Reserved for future use","7.2e  Reserved for future use",3330,"2015",0
+"PART5","TP_PREMIUM_EARNED_INCLUD_FSHRP","7.2c  Reserved for future use","7.2c  Reserved for future use",3310,"2015",0
+"PART5","TP_QUALITY_IMPROVEMENT_EXPENSE","7.2b  Reserved for future use","7.2b  Reserved for future use",3290,"2015",0
+"PART5","PREMIUM_EARNED_INCLUDING_FSHRP","Premium earned including Federal and State high risk programs and adjusted for net premium stabilization program payments / (charges)","2.1 Premium earned including Federal and State high risk programs and adjusted for net premium stabilization program payments/(charges)",2870,"2015",1
+"PART5","PRELIMINARY_MLR","Preliminary MLR","5.1a  Preliminary MLR (Lines 1.8/2.3)",3160,"2015",1
+"PART5","PRELIMINARY_MLR_MINI_MED_EXPAT","Preliminary MLR: Mini-Med and Student Health","5.1b  Preliminary MLR: Mini-Med and Student Health (Lines 1.9/2.3)",3170,"2015",1
+"PART5","MLR_DENOMINATOR","MLR denominator ","2.3 MLR denominator (Lines 2.1 – 2.2)",2890,"2015",1
+"PART5","MLR_NUMERATOR","MLR numerator","1.8 MLR numerator",2850,"2015",1
+"PART5","MLR_NUMERATOR_MINI_MED_EXPAT","MLR numerator Mini-Med and Student Health","1.9 MLR numerator Mini-Med and Student Health (using adjustment factor)",2860,"2015",1
+"PART5","MLR_STANDARD","MLR standard","6.1 MLR standard",3200,"2015",1
+"PART5","QUALITY_IMPROVEMENT_EXPENSES","Improving Health Care Quality Expenses","1.3 Improving Health Care Quality Expenses",2800,"2015",1
+"PART5","RC_ADJ_INC_CLAIMS_PY_RESTATED_Q1","Adjusted incurred claims as reported on MLR Form for the prior benefit year","7.2b  Adjusted incurred claims from the prior year, restated as of 3/31 of the year following the benefit year",3300,"2015",0
+"PART5","RC_ADJ_INCURRED_CLAIMS_PY","Adjusted incurred claims as reported on MLR Form for the prior benefit year","7.2a  Adjusted incurred claims as reported on MLR Form for the prior benefit year",3270,"2015",0
+"PART5","RC_ADMIN_COSTS_EXCL_TAXES","Administrative costs excluding taxes","3.2 Administrative costs excluding taxes (Part 1 Lines 5.1 + 5.2 + 5.3 + 5.4 + 5.5a + 5.5b + 5.6)",2910,"2015",1
+"PART5","RC_AGG_AMOUNT_BY_MKT_UNADJ","Risk corridors aggregate amount by market without adjustment","3.9 Risk corridors aggregate amount by market without adjustment (from Risk Corridors Plan Data Form, Part 3 Line 9)",3090,"2015",0
+"PART5","RC_ALLOWABLE_ADMIN","Allowable administrative costs","3.4 Allowable administrative costs (the lesser of Lines 3.4a or 3.4b)",2980,"2015",1
+"PART5","RC_ALLOWABLE_ADMIN_UNADJ","Allowable administrative costs without adjustment","3.6 Allowable administrative costs without adjustment(the lesser of Lines 3.6b or 3.6c)",3030,"2015",1
+"PART5","RC_ALLOWABLE_COSTS","Allowable costs","3.1 Allowable costs (Lines 1.2 + 1.3 - 1.4 - 1.5 - 1.6 + 7.2)",2900,"2015",1
+"PART5","RC_CAPPED_ADMIN","Capped administrative costs","3.4b  Capped administrative costs ((20% + 2%) x (Lines 2.1 - 2.2) + Line 2.2)",3010,"2015",1
+"PART5","RC_CAPPED_ADMIN_UNADJ","Capped administrative costs without adjustment","3.6c  Capped administrative costs without adjustment (20% x (Lines 2.1 - 2.2) + Line 2.2)",3060,"2015",1
+"PART5","RC_CAPPED_PROFIT","Capped profit","3.3b  Capped profit ((3% + 2%) x (Lines 2.1 - 2.2))",2960,"2015",1
+"PART5","RC_CAPPED_PROFIT_UNADJ","Capped profit without adjustment","3.3c  Capped profit without adjustment (3% x (Lines 2.1 - 2.2))",2970,"2015",1
+"PART5","RC_CLM_LIAB_TRUEUP","Risk Corridors claims liabilities/reserves true-up","7.2 Risk Corridors claims liabilities/reserves true-up (Lines 7.2b - 7.2a)",3260,"2015",1
+"PART5","RC_EARNED_PROFIT","Earned profit","3.3a  Earned profit (Lines 2.1 - 3.1 - 2.2 - 3.2)",2950,"2015",1
+"PART5","RC_PROFIT_FOR_CALC","Profit for risk corridors calculation","3.3 Profit for risk corridors calculation (the greater of Lines 3.3a or 3.3b)",2940,"2015",1
+"PART5","RC_PROFIT_PLUS_ADMIN","Profit and administrative costs ","3.4a  Profit and administrative costs (Lines 3.2 + 3.3 + 2.2)",2990,"2015",1
+"PART5","RC_PROFIT_PLUS_ADMIN_EXCL_TAXES","Profit and administrative costs excluding taxes","3.6a  Profit and administrative costs (Lines 3.2 + 3.5 + 2.2)",3000,"2015",1
+"PART5","RC_PROFIT_PLUS_ADMIN_UNADJ","Profit and administrative costs without adjustment","3.6b  Profit and administrative costs without adjustment (Lines 3.2 + 3.6a + 2.2)",3050,"2015",1
+"PART5","RC_PROFIT_UNADJ","Profit without adjustment","3.6a  Profit without adjustment (the greater of Lines 3.3a or 3.3c)",3040,"2015",1
+"PART5","RC_RATIO_COSTS_TO_PRM","Ratio of allowable costs to after-tax premium","3.3 Ratio of allowable costs to after-tax premium (Lines 3.1/(2.1 - 2.2))",2920,"2015",1
+"PART5","RC_RATIO_UNADJ","Unadjusted risk corridors ratio","3.8 Unadjusted risk corridors ratio (Lines 3.1 / 3.7)",3080,"2015",1
+"PART5","RC_TARGET_AMOUNT","Risk corridors adjusted target amount","3.5 Risk corridors adjusted target amount (Lines 2.1 - 3.4)",3020,"2015",1
+"PART5","RC_TARGET_AMOUNT_UNADJ","Risk corridors unadjusted target amount","3.7 Risk corridors unadjusted target amount (Lines 2.1 - 3.6)",3070,"2015",1
+"PART5","RC_TOTAL_NET_PAYMENT_UNADJ","Risk corridors total payment or charge amount used for MLR calculation","3.10 Risk corridors total payment or charge amount used for MLR calculation (from Risk Corridors Plan Data Form, Part 3 Line 10)",3100,"2015",0
+"PART5","RC_TRANSITIONAL_PCT","Transitional Adjustment Percentage","3.4 Transitional Adjustment Percentage (if Line 3.3 ? 80%)",2930,"2015",0
+"PART5","REBATE_AMT_CREDIBILITY_ADJ_MLR","Rebate amount if credibility-adjusted MLR is less than MLR standard ","6.4 Rebate amount if credibility-adjusted MLR is less than MLR standard (Lines (6.1 – 6.2) x 6.3)",3230,"2015",1
+"PART5","LIFE_YEARS_TO_DETERMINE_CRED","Life-years","4.1 Life-years",3110,"2015",1
+"PART5","DEDUCTIBLE_FACTOR","Deductible factor","4.4 Deductible factor",3140,"2015",1
+"PART5","DEFFERED_PRM_ACA","Deferred portion of 2013 premium collected for 2014 ACA assessments or fees","7.1a Deferred portion of 2013 premium collected for 2014 ACA assessments or fees",3240,"2015",0
+"PART5","DEFFERED_TAX_ACA","Total Federal and State taxes associated with the deferred premium on Line 6.1a","7.1b Total Federal and State taxes associated with the deferred premium on Line 7.1a",3250,"2015",0
+"PART5","FED_RISK_CORR_NET_PAYMENTS_HHS","Federal Risk Corridors Program net payments / (charges)","1.7 Federal Risk Corridors Program net payments/(charges)",2840,"2015",1
+"PART5","FED_STATE_TAXES_LIC_OR_REG_FEE","Federal and State taxes and licensing or regulatory fees","2.2 Federal and State taxes and licensing or regulatory fees",2880,"2015",1
+"PART5","FED_RISK_ADJ_NET_PAYMENTS_HHS","Federal Risk Adjustment Program net payments expected from HHS / (charges payable to HHS)","1.6 Federal Risk Adjustment Program net payments expected from HHS/(charges payable to HHS) (as indicated by HHS as of 6/30)",2830,"2015",1
+"PART5","FED_REINS_PAYMENTS_HHS","Federal Transitional Reinsurance Program payments expected from HHS","1.5 Federal Transitional Reinsurance Program payments expected from HHS (as indicated by HHS as of 6/30)",2820,"2015",1
+"PART5","AVERAGE_DEDUCTIBLE","Average deductible","4.3 Average deductible",3130,"2015",1
+"PART5","BASE_CREDIBILITY_FACTOR","Base credibility factor","4.2 Base credibility factor",3120,"2015",1
+"PART5","CREDIBILITY_ADJ_FACTOR_LN3_5","Credibility adjustment  (Line 4.5, if applicable)","5.2 Credibility adjustment (Line 4.5, if applicable)",3180,"2015",1
+"PART5","CREDIBILITY_ADJUSTED_MLR","Credibility-adjusted MLR ","5.3 Credibility-adjusted MLR (Lines 5.1a or 5.1b + 5.2)",3190,"2015",1
+"PART5","CREDIBILITY_ADJUSTED_MLR_LN4_4","Credibility-adjusted MLR (Line 5.3)","6.2 Credibility-adjusted MLR (Line 5.3)",3210,"2015",1
+"PART5","CREDIBILITY_ADJUSTMENT_FACTOR","Credibility adjustment","4.5 Credibility adjustment (Lines 4.2 x 4.4 (do not round))",3150,"2015",1
+"PART5","ADJ_EARNED_PREMIUM_LIC_REG_FEE","Adjusted earned premium","6.3 Adjusted earned premium (Line 2.1 - 2.2 CY)",3220,"2015",1
+"PART5","ADJ_INCURRED_CLAIMS","Adjusted incurred claims as reported on MLR Form for prior year(s)","1.1 Adjusted incurred claims as reported on MLR Form for prior year(s)",2780,"2015",0
+"PART5","ADJ_INCURRED_CLAIMS_RESTATED_Q1","Adjusted incurred claims as of 3/31 of the year following the MLR reporting year ","1.2 Adjusted incurred claims as of 3/31 of the year following the MLR reporting year ",2790,"2015",1
+"PART5","ADVANCE_PAYMENTS_CSR","Reconciled payments of cost-sharing reductions","1.4 Reconciled payments of cost-sharing reductions",2810,"2015",1
+"PART6","AMT_OF_DE_MINIMIS_REBATES","Amount of de minimis rebates","3.b Amount of de minimis rebates",3410,"2015",0
+"PART6","AMT_OWED_REBATE_PRIOR_REP_YR","Total amount of rebates still owed for the previous MLR reporting year","4.b Total amount of rebates still owed for the previous MLR reporting year",3450,"2015",0
+"PART6","AMT_PAID_REBATE_PRIOR_REP_YR","Total amount of rebates paid for the previous MLR reporting year","4.a Total amount of rebates paid for the previous MLR reporting year",3440,"2015",0
+"PART6","AMT_REBATES_PAID_BY_PREM_CREDIT","Amount of rebates being paid by premium credit","3.c Amount of rebates being paid by premium credit",3420,"2015",0
+"PART6","AMT_REBATES_PAID_LUMP_SUM_REIMB","Amount of rebates being paid by lump-sum reimbursement","3.d Amount of rebates being paid by lump-sum reimbursement",3430,"2015",0
+"PART6","AMT_UNCLAIM_REBATE_PRIOR_REP_YR","Amount of unclaimed rebates from prior MLR reporting year","4.g Amount of unclaimed rebates from prior MLR reporting year",3500,"2015",0
+"PART6","NO_OF_POL_HOLDS_REB_DE_MINIMIS","Number of group policyholders whose rebate is de minimis","2.c Number of group policyholders whose rebate is de minimis",3380,"2015",0
+"PART6","NO_OF_POLICIES_CERTS","Number of policies / certificates","1.0 Number of policies/certificates  (from Part 1 Line 7.1)",3350,"2015",0
+"PART6","NO_OF_POLICYHOLDERS_OWN_A_REB","Number of group policyholders being paid a rebate","2.a Number of group policyholders being paid a rebate",3360,"2015",0
+"PART6","NO_OF_SUBSCRIBERS_OWED_A_REB","Number of subscribers being paid a rebate","2.b Number of subscribers being paid a rebate",3370,"2015",0
+"PART6","NO_RECEIVE_PREMIUM_CREDIT","Number of subscribers whose rebate is de minimis","2.d Number of subscribers whose rebate is de minimis",3390,"2015",0
+"PART6","PERCENT_NOTICES_SENT_TIMELY_GRP","Percentage of notices sent timely to subscribers of group policies owed a rebate","4.d Percentage of notices sent timely to subscribers of group policies owed a rebate",3470,"2015",0
+"PART6","PERCENT_NOTICES_SENT_TIMELY_IND","Percentage of notices sent timely to individual policy subscribers or group policyholders owed a rebate","4.c Percentage of notices sent timely to individual policy subscribers or group policyholders owed a rebate",3460,"2015",0
+"PART6","PERCENT_REBATES_PAID_TIMELY_GRP","Percentage of rebates paid timely to subscribers of group policies owed a rebate","4.f Percentage of rebates paid timely to subscribers of group policies owed a rebate",3490,"2015",0
+"PART6","PERCENT_REBATES_PAID_TIMELY_IND","Percentage of rebates paid timely to individual policy subscribers or group policyholders owed a rebate","4.e Percentage of rebates paid timely to individual policy subscribers or group policyholders owed a rebate",3480,"2015",0
+"PART6","TOTAL_AMOUNT_OF_REBATES","Total amount of rebates  ","3.a Total amount of rebates (from Part 3, Line 6.4)",3400,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_1","2.1 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.1 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3510,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_10","2.10 Affiliate(s) name(s) with whom blended rate adjustments were made.","2.10 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3600,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_11","2.11 Affiliate(s) name(s) with whom blended rate adjustments were made.","2.11 Affiliate(s) name(s) with whom blended rate adjustments were made.",3610,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_2","2.2 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.2 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3520,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_3","2.3 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.3 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3530,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_4","2.4 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.4 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3540,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_5","2.5 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.5 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3550,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_6","2.6 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.6 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3560,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_7","2.7 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.7 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3570,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_8","2.8 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.8 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3580,"2015",0
+"PART7","AFFILIATE_NAME_BLEND_RATE_ADJ_9","2.9 Affiliate(s) name(s) with whom blended rate adjustments were made. ","2.9 Affiliate(s) name(s) with whom blended rate adjustments were made. ",3590,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_1","3.1 Affiliate(s) name(s) with whom experience is being reported. ","3.1 Affiliate(s) name(s) with whom experience is being reported. ",3620,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_10","3.10 Affiliate(s) name(s) with whom experience is being reported. ","3.10 Affiliate(s) name(s) with whom experience is being reported. ",3710,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_11","3.11 Affiliate(s) name(s) with whom experience is being reported. ","3.11 Affiliate(s) name(s) with whom experience is being reported. ",3720,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_2","3.2 Affiliate(s) name(s) with whom experience is being reported. ","3.2 Affiliate(s) name(s) with whom experience is being reported. ",3630,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_3","3.3 Affiliate(s) name(s) with whom experience is being reported. ","3.3 Affiliate(s) name(s) with whom experience is being reported. ",3640,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_4","3.4 Affiliate(s) name(s) with whom experience is being reported. ","3.4 Affiliate(s) name(s) with whom experience is being reported. ",3650,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_5","3.5 Affiliate(s) name(s) with whom experience is being reported. ","3.5 Affiliate(s) name(s) with whom experience is being reported. ",3660,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_6","3.6 Affiliate(s) name(s) with whom experience is being reported.","3.6 Affiliate(s) name(s) with whom experience is being reported.",3670,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_7","3.7 Affiliate(s) name(s) with whom experience is being reported. ","3.7 Affiliate(s) name(s) with whom experience is being reported. ",3680,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_8","3.8 Affiliate(s) name(s) with whom experience is being reported. ","3.8 Affiliate(s) name(s) with whom experience is being reported. ",3690,"2015",0
+"PART7","AFFILIATE_NAME_EXPERIENCE_9","3.9 Affiliate(s) name(s) with whom experience is being reported. ","3.9 Affiliate(s) name(s) with whom experience is being reported. ",3700,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_1","4.1 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.1 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3730,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_10","4.10 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.10 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3820,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_11","4.11 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.11 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3830,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_2","4.2 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.2 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3740,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_3","4.3 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.3 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3750,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_4","4.4 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.4 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3760,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_5","4.5 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.5 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3770,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_6","4.6 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.6 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3780,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_7","4.7 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.7 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3790,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_8","4.8 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.8 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3800,"2015",0
+"PART7","ENTITY_NAME_AGREEMENT_9","4.9 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ","4.9 Provide the name(s) of the entity(ies) with whom the agreement was (were) made and the effective date of the novation. ",3810,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_1","5.1 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.1 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3840,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_10","5.10 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.10 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3930,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_2","5.2 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.2 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3850,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_3","5.3 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.3 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3860,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_4","5.4 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.4 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3870,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_5","5.5 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.5 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3880,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_6","5.6 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.6 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3890,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_7","5.7 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.7 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3900,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_8","5.8 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.8 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3910,"2015",0
+"PART7","ENTITY_NAME_BUSINESS_SOLD_9","5.9 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.","5.9 Provide the name of the entity to whom the business was sold or transferred and the date of the sale or transfer.",3920,"2015",0
+"PART7","ENTITY_REPORTING_EXPERIENCE_1","6.1 Report the name(s) of the entity(ies) that is (are) reporting the experience related to such business.","6.1 Report the name(s) of the entity(ies) that is (are) reporting the experience related to such business.",3940,"2015",0
+"PART7","ENTITY_REPORTING_EXPERIENCE_2","6.2 Report the name(s) of the entity(ies) that is (are) reporting the experience related to such business.","6.2 Report the name(s) of the entity(ies) that is (are) reporting the experience related to such business.",3950,"2015",0
+"PART7","ENTITY_REPORTING_EXPERIENCE_3","6.3 Report the name(s) of the entity(ies) that is (are) reporting the experience related to such business.","6.3 Report the name(s) of the entity(ies) that is (are) reporting the experience related to such business.",3960,"2015",0
