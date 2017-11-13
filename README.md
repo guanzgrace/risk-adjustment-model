@@ -2,7 +2,9 @@
 
 ### About
 
-The goal of this project (ORF 375 - Independent Research Project; Fall 2017; under the guidance of Professor Mark Braverman) is to make Centers for Medicare and Medicaid Services' (CMS) medical loss ratio data regarding the Affordable Care Act (ACA) more easily accessible to the public. A secondary goal of this project is to do a prelimary analysis of the data and attempt to duplicate CMS statistics on this ACA data. We search for statistical outliers, any correlations between premiums and transfers or spending and transfers, and we calculate year to year per person risk adjustment payment.
+The goal of this project is to make Centers for Medicare and Medicaid Services' (CMS) medical loss ratio data regarding the Affordable Care Act (ACA) more easily accessible to the public. A secondary goal of this project is to do a prelimary analysis of the data and attempt to duplicate CMS statistics on this ACA data. We search for statistical outliers, any correlations between premiums and transfers or spending and transfers, and we calculate year to year per person risk adjustment payment.
+
+This project was undertaken as part of ORF 375: Independent Research Project in Fall 2017, under the guidance of Professor Mark Braverman.
 
 ### Breakdown of Repository
 
@@ -24,4 +26,21 @@ Risk-Transfer-Formula folder:
 
 ### Directions for Future Work
 
-I would eventually like to fully implement the AV Calculations and/or the full Risk Transfer Formula implementation in Python and confirm that the outputs are the same as those calculated by the Excel spreadsheet given by CMS. Additionally, I would like to analyze the data in the 0_Data-ETL folder further to find more outliers and why they are so, should they exist.
+I would eventually like to fully implement the AV Calculations and/or the full Risk Transfer Formula implementation in Python and confirm that the outputs are the same as those calculated by the Excel spreadsheet given by CMS. Additionally, I would like to further analyze the data in the 0_Data-ETL folder.
+
+### Milestones Timeline
+
+ Date | Goals | Status 
+ --- | --- | ---
+11/19/17 | Data cleaning to relevant CSV files | **In Progress**
+ | Github cleaning | **Completed**
+ | Documentation | **Completed**
+11/26/17 | Data cleaning II | 
+ | A few samples of calculated data | 
+12/3/17 | Statistical Analysis | 
+ | Year to year per person payment | 
+12/10/17 | Redo CMS statistics, Correlation analysis | 
+12/17/17 | IW talk | 
+| Project site | 
+1/XX/2018 | Paper complete | 
+ | Poster Presentation complete | 
