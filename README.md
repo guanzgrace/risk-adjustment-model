@@ -33,14 +33,14 @@ I would eventually like to fully implement the AV Calculations and/or the full R
  Date | Goals | Status 
  --- | --- | ---
 11/19/17 | Data cleaning to relevant CSV files | **In Progress**
- | Github cleaning | **Completed**
- | Documentation | **Completed**
-11/26/17 | Data cleaning II | 
- | A few samples of calculated data | 
-12/3/17 | Statistical Analysis | 
- | Year to year per person payment | 
-12/10/17 | Redo CMS statistics, Correlation analysis | 
-12/17/17 | IW talk | 
-| Project site | 
-1/XX/2018 | Paper complete | 
- | Poster Presentation complete | 
+. | Github cleaning | **Completed**
+. | Documentation | **Completed**
+11/26/17 | Data cleaning II | .
+. | A few samples of calculated data | .
+12/3/17 | Statistical Analysis | .
+. | Year to year per person payment | .
+12/10/17 | Redo CMS statistics, Correlation analysis | .
+12/17/17 | IW talk | .
+. | Project site | .
+1/XX/2018 | Paper complete | .
+. | Poster Presentation complete | .
