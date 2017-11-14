@@ -1,0 +1,833 @@
+,HIOS ID,HIOS INPUTTED INSURANCE COMPANY NAME,STATE,REINSURANCE PAYMENT AMOUNT (OR NOT ELIGIBLE),"HHS RISK ADJUSTMENT TRANSFER AMOUNT (INDIVIDUAL MARKET, INCLUDING CATASTROPHIC)",HHS RISK ADJUSTMENT TRANSFERS AMOUNT (SMALL GROUP MARKET)
+0,11082,Aetna Life Insurance Company,AK,$0.00,"$(34,550.55)","$557,129.08"
+1,38344,Premera Blue Cross Blue Shield of Alaska,AK,"$14,655,165.10","$12,358,455.76","$1,742,413.11"
+2,38596,Time Insurance Company,AK,"$1,167,367.38","$(2,908,793.99)","$(1,465,993.25)"
+3,62637,John Alden Life Insurance Company,AK,N/E,$-,"$607,207.25"
+4,73836,"Moda Health Plan, Inc.",AK,"$26,305,543.39","$(9,415,111.19)","$(683,234.43)"
+5,80049,United Healthcare Insurance Company,AK,N/E,$-,"$(757,521.80)"
+6,13939,Time Insurance Company,AL,"$452,110.79","$(223,260.20)","$(18,832.66)"
+7,44580,Humana Insurance Company,AL,"$4,108,536.10","$(3,473,430.83)",$-
+8,44902,Federated Mutual Insurance Company,AL,N/E,$-,"$(18,268.78)"
+9,46944,Blue Cross and Blue Shield of Alabama,AL,"$96,845,673.52","$13,434,646.95","$1,891,994.10"
+10,49771,John Alden Life Insurance Company,AL,N/E,$-,"$47,439.27"
+11,59809,United Healthcare Life Insurance Company,AL,"$148,062.53","$(805,865.40)","$2,012.29"
+12,68259,"United Healthcare of Alabama, Inc.",AL,"$7,835,054.79","$(8,989,541.02)","$(397,175.98)"
+13,69461,United Healthcare Insurance Company,AL,N/E,$-,"$(724,205.96)"
+14,93018,VIVA Health,AL,N/E,$-,"$(782,962.27)"
+15,93122,Freedom Life Insurance,AL,$0.00,"$57,450.42",$-
+16,13262,"HMO Partners, Inc.",AR,N/E,$-,"$681,450.22"
+17,22732,United Healthcare Ins Co of River Valley,AR,N/E,$-,"$(737,381.21)"
+18,30991,Time Insurance Company,AR,"$853,438.80","$(668,914.23)","$(271,493.27)"
+19,37903,"QualChoice Life & Health Insurance Company, Inc.",AR,"$4,995,655.00","$(2,751,129.36)","$(17,495.48)"
+20,51826,John Alden Life Insurance Company,AR,N/E,$-,"$(7,856.65)"
+21,53135,United Healthcare Life Insurance Company,AR,"$506,664.43","$(280,355.58)",$-
+22,60079,Coventry Health and Life,AR,$0.00,"$(15,072.70)","$(41,289.01)"
+23,61273,Freedom Life Insurance,AR,$0.00,"$(5,029.01)",$-
+24,62141,Celtic Insurance Company,AR,"$8,196,167.49","$(10,893,205.76)",$-
+25,65817,"United Healthcare of Arkansas, Inc.",AR,N/E,$-,"$(578,563.20)"
+26,70525,"QCA Health Plan, Inc.",AR,"$10,580,046.00","$6,656,762.38","$(272,007.50)"
+27,75293,Arkansas Blue Cross and Blue Shield,AR,"$64,811,130.09","$8,441,174.73","$1,078,908.44"
+28,81392,United Healthcare Insurance Company,AR,N/E,$-,"$9,059.95"
+29,89365,Federated Mutual Insurance Company,AR,N/E,$-,"$65,077.18"
+30,99685,Humana Insurance Company,AR,"$149,183.57","$(484,230.53)","$91,590.58"
+31,23029,Madison National Life,AZ,N/E,$-,"$(9,938.88)"
+32,23307,"Humana Health Plan, Inc.",AZ,"$676,362.49","$856,409.75","$(1,948,641.42)"
+33,40702,"United Healthcare of Arizona, Inc.",AZ,N/E,$-,"$(34,081.48)"
+34,51485,Health Net Life Insurance Company,AZ,"$46,215,394.37","$26,294,064.75","$7,584,973.03"
+35,53901,"Blue Cross Blue Shield of Arizona, Inc.",AZ,"$51,821,293.19","$20,131,634.31","$(837,227.17)"
+36,59096,Standard Security Life,AZ,N/E,$-,"$(5,153.41)"
+37,60761,Meritus Health Partners,AZ,"$7,175,051.81","$(48,452,998.55)","$(788,993.84)"
+38,65441,"Phoenix Health Plans, Inc.",AZ,$0.00,"$(247,328.86)",$-
+39,66105,Humana Insurance Company,AZ,"$1,778,440.10","$689,053.89","$900,266.16"
+40,70239,Health Choice Insurance Co.,AZ,"$1,542,865.70","$(5,999,819.70)",$-
+41,70904,WMI Mutual Insurance Company,AZ,N/E,$-,"$(47,954.99)"
+42,73893,John Alden Life Insurance Company,AZ,N/E,$-,"$543,121.99"
+43,75849,Freedom Life Insurance,AZ,"$4,146.48","$168,620.34",$-
+44,78611,Aetna Health Inc. (a PA corp.),AZ,N/E,$-,"$296,497.65"
+45,80863,Time Insurance Company,AZ,"$12,354,851.10","$11,878,587.57","$355,617.92"
+46,82011,United Healthcare Insurance Company,AZ,N/E,$-,"$4,970,157.33"
+47,84251,Aetna Life Insurance Company,AZ,"$1,614,307.95","$(3,663,100.18)","$(4,599,781.33)"
+48,86830,Cigna Health and Life Insurance Company,AZ,"$1,431,522.46","$2,978,136.23",$(35.55)
+49,88925,"University of Arizona Health PlansUniversity Healthcare, Inc.",AZ,"$462,348.20","$(9,792,044.00)",$-
+50,90169,United Healthcare Life Insurance Company,AZ,"$737,940.90","$784,206.91",$-
+51,91450,"Health Net of Arizona, Inc.",AZ,"$12,625,077.68","$1,953,496.40","$(4,432,593.99)"
+52,92045,Meritus Mutual Health Partners,AZ,"$3,284,983.52","$(558,586.58)","$(1,913,246.31)"
+53,97667,"Cigna HealthCare of Arizona, Inc.",AZ,N/E,$-,"$(56,070.83)"
+54,98971,All Savers Insurance Company,AZ,"$4,527,194.30","$2,979,667.72","$23,085.14"
+55,18126,Molina Healthcare of California,CA,"$1,230,390.91","$(25,983,024.62)",$-
+56,20523,Aetna Health of California Inc.,CA,N/E,$-,"$(55,802,137.54)"
+57,27330,Kaiser Permanente Insurance Company,CA,N/E,$-,"$765,550.26"
+58,27603,Blue Cross of California (Anthem BC),CA,"$324,481,782.24","$(26,380,560.05)","$98,210,694.17"
+59,35305,Trustmark Life Insurance Company,CA,$0.00,"$(165,775.07)",$-
+60,40025,Cigna Health and Life Insurance Company,CA,"$17,586,666.04","$5,953,639.83",$-
+61,40513,"Kaiser Foundation Health Plan, Inc.",CA,"$193,662,847.01","$(82,078,859.73)","$(86,677,086.30)"
+62,40733,Aetna Life Insurance Company,CA,N/E,$-,"$26,507,101.90"
+63,47579,Chinese Community Health Plan,CA,"$2,569,834.40","$(28,712,244.96)","$(1,540,479.60)"
+64,49116,UHC of California,CA,N/E,$-,"$(1,290,603.41)"
+65,56887,"County of Ventura, dba Ventura County Health Care Plan",CA,$0.00,$-,"$358,925.34"
+66,64198,Time Insurance Company,CA,"$65,148,241.89","$63,308,434.85",$-
+67,64210,"Sutter Health Plan, Inc.",CA,"$184,550.94","$309,874.09","$(3,431,344.78)"
+68,64618,National Health Insurance Company,CA,$0.00,$-,"$(161,102.44)"
+69,67138,"Health Net of California, Inc.",CA,"$41,900,195.93","$(125,635,855.94)","$(9,525,637.47)"
+70,68744,Humana Insurance Company,CA,N/E,$-,"$23,570.86"
+71,70285,CA Physician's Service dba Blue Shield of CA,CA,"$282,147,399.11","$181,516,598.98","$19,822,043.90"
+72,71408,"Moda Health Plan, Inc.",CA,$0.00,"$(40,592.40)",$-
+73,84014,County of Santa Clara,CA,"$505,318.49","$(115,235.31)",$-
+74,92499,Sharp Health Plan,CA,"$9,640,079.06","$9,791,489.44","$(5,238,158.44)"
+75,92815,Local Initiative Health Authority for Los Angeles County,CA,"$173,346.94","$(23,491,264.75)",$-
+76,93689,Western Health Advantage,CA,"$6,089,256.83","$(1,713,529.97)","$3,553,914.02"
+77,95677,United Healthcare Insurance Company,CA,N/E,$-,"$3,006,738.38"
+78,99110,Health Net Life Insurance Company,CA,"$94,347,305.12","$53,436,905.52","$11,418,011.12"
+79,11555,New Health Ventures Inc.,CO,"$389,863.07","$173,278.24",$-
+80,20472,"Colorado Health Insurance Cooperative, Inc.",CO,"$38,664,334.67","$(41,180,913.97)","$(819,602.44)"
+81,21032,Kaiser Foundation Health Plan of Colo.,CO,"$20,539,222.46","$(7,630,792.84)","$951,160.48"
+82,28700,Freedom Life Insurance,CO,"$49,057.63","$98,569.13",$-
+83,35944,Kaiser Permanente Insurance Company,CO,N/E,$-,"$(124,133.71)"
+84,39060,Time Insurance Company,CO,"$5,903,506.26","$6,541,514.95",$-
+85,49375,Cigna Health and Life Insurance Company,CO,"$6,431,729.43","$10,417,522.17",$-
+86,59036,"United Healthcare of Colorado, Inc.",CO,N/E,$-,"$(1,520,187.65)"
+87,63312,Colorado Choice Health Plans,CO,"$4,665,826.16","$1,562,462.46","$(1,750,013.59)"
+88,66699,"Denver Health Medical Plan, Inc.",CO,"$90,456.80","$2,379,976.29",$-
+89,67879,United Healthcare Insurance Company,CO,N/E,$-,"$979,323.74"
+90,74320,Humana Health Plan,CO,"$7,614,421.26","$6,064,407.53","$3,278,864.95"
+91,76680,HMO Colorado Inc.(Anthem BCBS),CO,"$9,021,034.94","$29,925.42","$(1,803,127.62)"
+92,79509,Humana Insurance Company,CO,"$1,442,411.66","$664,060.25","$(95,294.25)"
+93,80208,Rocky Mountain Health Care Options,CO,N/E,$-,"$4,347,588.59"
+94,87269,Rocky Mountain Hos & Med Svc(Anthem BCBS),CO,"$3,292,837.76","$(318,263.67)","$(1,239,886.17)"
+95,92137,All Savers Insurance Company,CO,"$73,109.00","$168,907.50",$-
+96,92291,United Healthcare Life Insurance Company,CO,"$1,255,110.84","$2,513,503.26",$-
+97,97879,Rocky Mountain HMO,CO,"$32,893,237.64","$18,515,843.40","$(2,204,692.42)"
+98,29462,"Oxford Health Insurance, Inc.",CT,N/E,$-,"$5,162,193.87"
+99,39159,Aetna Life Insurance Company,CT,"$4,544,078.36","$(621,770.44)","$(610,884.79)"
+100,40591,Golden Rule Insurance Company,CT,"$1,962,499.71","$(164,216.71)",$-
+101,49650,United Healthcare Insurance Company,CT,"$1,989,551.43","$1,159,270.36","$(291,961.23)"
+102,71179,"Oxford Health Plans (CT), Inc.",CT,N/E,$-,"$(1,834,583.56)"
+103,75091,"ConnectiCare, Inc.",CT,"$26,569.95","$(1,899,004.88)","$(6,351.77)"
+104,76962,"ConnectiCare Benefits, Inc.",CT,"$20,637,447.76","$4,456,584.71",$-
+105,85732,United Healthcare Life Insurance Company,CT,"$1,061,734.21","$2,156,886.02",$-
+106,86542,Time Insurance Company,CT,"$2,420,111.46","$905,352.48",$-
+107,86545,Anthem Health Plans Inc.(Anthem BCBS),CT,"$37,802,725.10","$25,538,509.66","$25,341,838.53"
+108,87354,Cigna Health and Life Insurance Company,CT,"$949,866.36","$1,551,767.81",$-
+109,89130,"HPHC Insurance Company, Inc.",CT,N/E,$-,"$(9,781,592.11)"
+110,91069,"HealthyCT, Inc.",CT,"$11,450,211.51","$(6,912,671.83)","$(6,459,820.49)"
+111,94815,"ConnectiCare Insurance Company, Inc.",CT,"$17,822,555.02","$(26,170,707.17)","$(10,932,640.17)"
+112,95882,"Harvard Pilgrim Health Care of Connecticut, Inc.",CT,N/E,$-,"$(586,198.35)"
+113,21066,United Healthcare of the MidAtlantic Inc.,DC,N/E,$-,"$(46,276.28)"
+114,41842,United Healthcare Insurance Company,DC,N/E,$-,"$(389,192.26)"
+115,73987,Aetna Health Inc. (a PA corp.),DC,N/E,$-,"$(905,578.03)"
+116,75753,"Optimum Choice, Inc.",DC,N/E,$-,"$(171,150.38)"
+117,77422,Aetna Life Insurance Company,DC,"$26,078.14","$(254,043.25)","$(335,906.75)"
+118,78079,GHMSI,DC,"$2,537,992.49","$3,510,581.06","$15,545,279.98"
+119,86052,"CareFirst Blue Choice, Inc.",DC,"$3,021,555.65","$(1,630,614.05)","$(10,757,047.29)"
+120,94506,"Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",DC,"$493,299.21","$(1,625,923.79)","$(2,940,128.99)"
+121,29497,Aetna Life Insurance Company,DE,"$983,961.77","$(1,832,345.10)","$(241,246.17)"
+122,61021,United Healthcare Insurance Company,DE,N/E,$-,"$67,458.83"
+123,67190,Aetna Health Inc. (a PA corp.),DE,"$729,611.12","$(743,159.52)","$(557,909.15)"
+124,76168,Highmark BCBSD Inc.,DE,"$20,884,315.58","$2,779,948.94","$2,329,735.02"
+125,78960,John Alden Life Insurance Company,DE,N/E,$-,"$(5,432.47)"
+126,81914,"Coventry Health Care of Delaware, Inc.",DE,$0.00,$-,"$(1,468,781.32)"
+127,89587,Golden Rule Insurance Company,DE,"$53,697.97","$(245,126.83)",$-
+128,97569,"Optimum Choice, Inc.",DE,N/E,$-,"$(112,992.65)"
+129,97889,Time Insurance Company,DE,"$101,901.86","$40,682.47","$(10,832.08)"
+130,15980,Humana Insurance Company,FL,$0.00,$(279.30),$-
+131,16842,Blue Cross and Blue Shield of Florida,FL,"$203,698,387.46","$368,933,330.53","$8,102,147.17"
+132,17341,United Healthcare Life Insurance Company,FL,"$14,736,590.26","$10,189,460.60",$-
+133,18628,Aetna Health Inc. (a FL corp.),FL,"$10,360,565.46","$(28,025,200.75)","$5,437,975.83"
+134,19898,"AvMed, Inc.",FL,"$3,804,584.76","$(148,477.46)","$(3,997,943.28)"
+135,21663,Celtic Insurance Company,FL,"$110,365.02","$193,747.70",$-
+136,23841,Aetna Life Insurance Company,FL,"$731,464.13","$(2,790,586.53)","$1,289,962.56"
+137,27357,"Health First Health Plans, Inc.",FL,"$3,432,440.18","$814,327.97","$668,492.53"
+138,30252,"Health Options, Inc.",FL,"$49,987,278.15","$81,745,567.90","$(4,176,090.84)"
+139,35783,"Humana Medical Plan, Inc.",FL,"$136,834,264.80","$(135,056,370.83)","$(11,511,826.07)"
+140,40442,Freedom Life Insurance,FL,"$441,431.46","$544,782.95",$-
+141,41240,John Alden Life Insurance Company,FL,N/E,$-,"$6,445.09"
+142,42204,All Savers Insurance Company,FL,N/E,$-,"$(125,918.62)"
+143,43839,United Healthcare Insurance Company,FL,N/E,$-,"$4,051,544.19"
+144,48121,Cigna Health and Life Insurance Company,FL,"$82,711,915.66","$73,421,679.32",$-
+145,51398,"Preferred Medical Plan, Inc.",FL,"$11,390,404.66","$(62,496,825.44)",$-
+146,54172,"Molina Healthcare of Florida, Inc.",FL,"$19,021,408.95","$(218,903,904.11)",$-
+147,56503,"Florida Health Care Plan, Inc.",FL,"$2,186,051.19","$2,314,125.36","$528,571.04"
+148,57451,"Coventry Health Care of Florida, Inc.",FL,"$56,919,893.68","$(110,567,546.03)","$973,155.25"
+149,62662,Time Insurance Company,FL,"$76,121,282.95","$35,074,237.06","$(112,612.60)"
+150,66966,Capital Health Plan,FL,N/E,$-,"$3,951,692.24"
+151,68398,"United Healthcare of Florida, Inc.",FL,"$75,479,361.88","$14,572,435.15","$(4,380,861.24)"
+152,76089,Coventry Health and Life Insurance Co.,FL,N/E,$-,"$(31,756.97)"
+153,77150,"Health First Insurance, Inc.",FL,"$649,761.09","$700,760.10","$(210,737.71)"
+154,80779,"Neighborhood Health Partnership, Inc.",FL,N/E,$-,"$(338,156.26)"
+155,83883,Florida Health Solution HMO Company,FL,$0.00,"$(166,901.91)",$-
+156,86382,Sunshine State Health Plan,FL,"$1,184,424.15","$(26,584,661.51)",$-
+157,92120,"Coventry Health Plan of Florida, Inc.",FL,"$489,538.37","$(1,502,492.36)",$-
+158,99308,"Humana Health Insurance Co of FL, Inc.",FL,"$1,206,801.28","$(2,261,208.38)","$(124,082.70)"
+159,12442,Nippon Life Insurance Company of America,GA,N/E,$-,"$130,774.07"
+160,13535,United Healthcare Insurance Company,GA,N/E,$-,"$4,168,453.84"
+161,20544,Time Insurance Company,GA,"$12,630,285.95","$10,590,785.72","$(237,705.68)"
+162,24775,Celtic Insurance Company,GA,$0.00,"$1,983.90",$-
+163,30552,United Healthcare Ins Co of River Valley,GA,N/E,$-,"$(1,784,203.76)"
+164,37001,Humana Insurance Company,GA,"$1,390,112.88","$1,622,203.69","$308,751.17"
+165,38835,Federated Mutual Insurance Company,GA,N/E,$-,"$(818,531.15)"
+166,43802,"United Healthcare of Georgia, Inc.",GA,"$10,987,380.00","$9,760,768.12","$(111,617.91)"
+167,45495,Peach State Health Plan,GA,"$2,158,724.63","$(13,768,906.67)",$-
+168,47783,"Coventry Health Care of Georgia, Inc.",GA,"$20,317,351.30","$(58,546,619.35)","$(1,319,184.49)"
+169,49046,"Blue Cross Blue Shield Healthcare Plan of Georgia, Inc.",GA,"$31,999,615.68","$(15,389,290.74)","$2,806,937.56"
+170,50313,John Alden Life Insurance Company,GA,N/E,$-,"$123,868.75"
+171,50491,Cigna Health and Life Insurance Company,GA,"$3,610,522.83","$3,938,467.33",$-
+172,63411,"Blue Cross and Blue Shield of Georgia, Inc.",GA,N/E,$-,"$2,862,053.98"
+173,65890,Coventry Health and Life,GA,N/E,$-,"$(233,155.74)"
+174,72796,Freedom Life Insurance,GA,$0.00,$370.93,$-
+175,74189,United Healthcare Life Insurance Company,GA,"$961,244.88","$586,323.62",$-
+176,82302,Kaiser Permanente Insurance Company,GA,N/E,$-,"$54,610.53"
+177,82824,Aetna Health Inc. (a GA corp.),GA,N/E,$-,"$(4,486,504.66)"
+178,83761,Alliant Health Plans,GA,"$10,071,727.50","$4,679,043.57","$22,552.36"
+179,83978,Aetna Life Insurance Company,GA,"$6,808,764.85","$(14,644,018.02)","$3,485,222.28"
+180,89942,Kaiser Foundation Health Plan of Georgia,GA,"$8,692,894.13","$2,627,520.08","$(2,393,268.87)"
+181,93332,"Humana Employers Health Plan of Georgia, Inc.",GA,"$213,566,269.89","$68,541,368.02","$(2,579,052.10)"
+182,14479,Family Health Hawaii mbs,HI,N/E,$-,"$(462,123.43)"
+183,18350,Hawaii Medical Service Association,HI,"$16,197,585.19","$15,467,100.50","$7,322,488.29"
+184,54179,United Healthcare Insurance Company,HI,N/E,$-,"$(24,645.33)"
+185,56682,Hawaii Medical Assurance Association,HI,N/E,$-,"$662,917.71"
+186,60612,"Kaiser Foundation Health Plan, Inc.",HI,"$5,420,682.06","$(15,467,100.50)","$(6,719,908.37)"
+187,95366,University Health Alliance (UHA),HI,N/E,$-,"$(778,728.87)"
+188,18973,Coventry Health Care of Iowa Inc.,IA,"$23,503,386.50","$(10,780,079.07)","$459,305.01"
+189,25896,Wellmark Health Plan of Iowa,IA,"$1,964,191.81","$(4,391,485.66)","$(1,170,299.82)"
+190,27651,"Gundersen Health Plan, Inc.",IA,"$169,678.49","$160,860.73","$26,939.77"
+191,41397,Federated Mutual Insurance Company,IA,N/E,$-,"$(76,811.45)"
+192,50735,Medical Associates Health Plans,IA,$0.00,$-,"$370,973.92"
+193,51474,Pekin Life Insurance Company,IA,N/E,$-,"$29,025.45"
+194,51820,Coventry Health and Life Insurance Co.,IA,$0.00,$-,"$(13,857.81)"
+195,56610,"United Healthcare Plan of the River Valley, Inc.",IA,N/E,$-,"$855,194.75"
+196,67580,John Alden Life Insurance Company,IA,N/E,$-,"$39,118.81"
+197,68184,Time Insurance Company,IA,"$790,452.44","$(244,924.54)","$(47,915.07)"
+198,71268,CoOportunity Health,IA,"$504,598.26","$(1,753,954.62)","$(3,537,357.91)"
+199,72160,Wellmark Inc.,IA,"$15,298,546.80","$16,573,829.24","$3,724,624.74"
+200,74980,"Avera Health Plans, Inc.",IA,"$274,092.10","$435,753.94","$(22,573.51)"
+201,77638,"Health Alliance Midwest, Inc.",IA,N/E,$-,"$(8,581.91)"
+202,85930,Sanford Health Plan,IA,N/E,$-,"$(19,387.07)"
+203,88678,United Healthcare Insurance Company,IA,N/E,$-,"$(608,397.92)"
+204,26002,Select Health,ID,"$19,459,263.73","$9,855,840.04","$(1,382,800.26)"
+205,28218,Time Insurance Company,ID,"$199,027.79","$137,386.95","$(45,007.50)"
+206,38128,Montana Health Cooperative,ID,"$7,011,343.81","$(6,390,206.43)","$(196,033.64)"
+207,43541,National Health Insurance Company,ID,$0.00,$-,"$(54,156.38)"
+208,44648,Regence Blue Shield of Idaho,ID,"$643,839.26","$1,002,953.94","$(831,183.51)"
+209,45059,Aetna Life Insurance Company,ID,N/E,$-,"$18,122.94"
+210,50118,United Healthcare Insurance Company,ID,N/E,$-,"$(13,618.27)"
+211,52156,John Alden Life Insurance Company,ID,N/E,$-,"$9,713.17"
+212,59765,BridgeSpan Health Company,ID,"$724,349.19","$(37,955.58)",$-
+213,60597,Pacific Source Health Plans,ID,"$807,479.44","$600,458.28","$(80,877.14)"
+214,61175,Altius Health Plans Inc.,ID,"$14,692.05","$(16,255.24)","$(174,731.40)"
+215,61589,"Blue Cross of Idaho Health Service, Inc.",ID,"$38,715,261.37","$(5,152,221.99)","$2,750,572.03"
+216,16724,"United Healthcare of the Midwest, Inc.",IL,"$424,446.55","$(702,032.46)",$-
+217,18389,Pekin Life Insurance Company,IL,N/E,$-,"$(476,618.51)"
+218,20129,"Health Alliance Medical Plans, Inc.",IL,"$9,489,886.93","$(1,326,442.96)","$(1,104,554.13)"
+219,24301,Medical Associates Health Plans,IL,N/E,$-,"$(348,670.80)"
+220,27833,Celtic Insurance Company,IL,$0.00,$(76.03),$-
+221,34446,United Healthcare Ins Co of River Valley,IL,N/E,$-,"$(2,373,664.90)"
+222,35670,Coventry Health & Life Co.,IL,"$1,886,166.50","$(644,379.33)","$458,501.80"
+223,36096,Blue Cross Blue Shield of Illinois,IL,"$283,514,429.00","$23,056,950.67","$10,877,027.26"
+224,42529,"United Healthcare of Illinois, Inc.",IL,N/E,$-,"$(1,185,146.24)"
+225,53586,Nippon Life Insurance Company of America,IL,N/E,$-,"$(18,665.99)"
+226,57020,John Alden Life Insurance Company,IL,N/E,$-,"$(167,167.35)"
+227,58239,"United Healthcare Plan of the River Valley, Inc.",IL,N/E,$-,"$(586,082.45)"
+228,58288,"Humana Health Plan, Inc.",IL,"$434,826.64","$730,433.28","$(1,525,019.48)"
+229,59311,Madison National Life,IL,N/E,$-,"$(3,428.71)"
+230,66143,Federated Mutual Insurance Company,IL,N/E,$-,"$1,306,490.38"
+231,66303,United Healthcare Life Insurance Company,IL,"$341,730.30","$(368,112.74)",$-
+232,67807,Time Insurance Company,IL,"$3,751,122.34","$5,250,022.24","$(25,545.56)"
+233,68303,Humana Insurance Company,IL,"$3,778,188.26","$4,859,821.84","$1,632,766.92"
+234,68432,"IlliniCare Health Plan, Inc.",IL,"$41,646.79","$(2,232,448.52)",$-
+235,72547,Aetna Life Insurance Company,IL,"$814,606.14","$(670,691.43)","$(1,111,838.73)"
+236,75104,"Coventry Health Care of Missouri, Inc.",IL,$0.00,"$(8,129.85)",$-
+237,79763,Land of Lincoln Mutual Health Insurance Company,IL,"$18,123,842.55","$(22,604,098.38)","$(9,219,351.96)"
+238,82506,Freedom Life Insurance,IL,"$38,014.98","$26,867.72",$-
+239,92476,United Healthcare Ins Co of Illinois,IL,N/E,$-,"$4,056,740.92"
+240,96601,"Coventry Health Care of Illinois, Inc.",IL,"$6,783,435.61","$(5,367,684.26)","$127,525.13"
+241,99129,Aetna Health Inc. (a PA corp.),IL,N/E,$-,"$(313,297.56)"
+242,11104,Federated Mutual Insurance Company,IN,N/E,$-,"$(542,240.33)"
+243,17575,Anthem Ins Companies Inc.(Anthem BCBS),IN,"$57,453,698.83","$(13,429,318.84)","$6,782,799.40"
+244,32378,Aetna Life Insurance Company,IN,N/E,$-,"$(313,624.00)"
+245,33380,"Indiana University Health Plans, Inc.",IN,"$396,940.65","$79,692.27",$-
+246,35065,Coordinated Care Corporation Indiana,IN,"$3,089,790.64","$(8,064,367.37)",$-
+247,35755,US Health and Life Insurance Company,IN,N/E,$-,"$(150,173.33)"
+248,36373,All Savers Insurance Company,IN,"$27,281,709.27","$13,324,209.36","$(48,636.23)"
+249,43070,United Healthcare Life Insurance Company,IN,"$11,725,100.80","$(8,198,015.22)",$-
+250,43442,Humana Health Plan,IN,N/E,$-,"$(102,658.68)"
+251,46881,Medical Benefits Mutual Life Insurance,IN,N/E,$-,"$(153,245.43)"
+252,50442,Standard Security Life,IN,N/E,$-,"$(27,473.51)"
+253,50816,"Physicians Health Plan of Northern Indiana, Inc.",IN,"$7,080,052.99","$(7,085,738.88)","$2,912,178.01"
+254,54192,"Care Source Indiana, Inc.",IN,"$4,110,030.68","$(18,119,292.96)",$-
+255,62033,"MDwise Marketplace, Inc.",IN,"$10,305,618.57","$17,928,174.59",$-
+256,67920,Southeastern Indiana Health Organization,IN,"$216,799.07","$(233,538.83)","$(852,678.23)"
+257,72850,United Healthcare Insurance Company,IN,N/E,$-,"$(6,771,739.27)"
+258,76179,Celtic Insurance Company,IN,$0.00,"$(8,090.12)",$-
+259,79828,Pekin Life Insurance Company,IN,N/E,$-,"$(183,612.65)"
+260,91842,Time Insurance Company,IN,"$12,099,166.58","$15,394,607.15","$472,972.29"
+261,95074,John Alden Life Insurance Company,IN,N/E,$-,"$(241,241.52)"
+262,98761,Nippon Life Insurance Company of America,IN,N/E,$-,"$(153,115.64)"
+263,99791,Humana Insurance Company,IN,"$9,599,228.21","$8,411,678.81","$(627,510.77)"
+264,18558,"Blue Cross and Blue Shield of Kansas, Inc.",KS,"$22,071,027.01","$17,980,150.06","$1,209,308.94"
+265,19968,Humana Insurance Company,KS,"$639,450.47","$129,998.03","$453,059.45"
+266,27811,"BlueCross BlueShield Kansas Solutions, Inc.",KS,"$6,313,568.90","$(11,980,761.66)","$(355,578.67)"
+267,34368,Celtic Insurance Company,KS,$0.00,"$4,300.78",$-
+268,41446,United Healthcare Life Insurance Company,KS,"$269,244.33","$325,366.78",$-
+269,49857,"Humana Health Plan, Inc.",KS,$0.00,$-,"$37,672.29"
+270,54822,Freedom Life Insurance,KS,$0.00,"$12,212.08",$-
+271,57850,Aetna Health Inc. (a PA corp.),KS,N/E,$-,"$(152,312.88)"
+272,61430,Coventry Health and Life,KS,"$19,219,397.06","$(18,755,986.82)","$(684,315.40)"
+273,65598,Coventry Health Care Of Kansas Inc.,KS,"$6,205,764.17","$(1,458,451.11)","$(413,025.79)"
+274,71122,Time Insurance Company,KS,"$1,368,746.67","$838,285.82","$(22,779.35)"
+275,84600,Aetna Life Insurance Company,KS,N/E,$-,"$745,826.49"
+276,94248,Blue Cross and Blue Shield of Kansas City,KS,"$10,237,463.22","$12,904,886.10","$827,921.82"
+277,94968,United Healthcare Insurance Company,KS,N/E,$-,"$(1,525,779.62)"
+278,96352,Federated Mutual Insurance Company,KS,N/E,$-,"$(229,788.82)"
+279,98618,John Alden Life Insurance Company,KS,N/E,$-,"$109,791.51"
+280,15411,"Humana Health Plan, Inc.",KY,"$6,821,351.04","$3,404,519.29","$(1,964,729.71)"
+281,19503,Time Insurance Company,KY,"$1,692,781.90","$1,187,533.23","$(16,224.72)"
+282,23671,"United Healthcare of Kentucky, Ltd.",KY,N/E,$-,"$(331,779.58)"
+283,28773,United Healthcare Insurance Company,KY,N/E,$-,"$(121,359.44)"
+284,33734,John Alden Life Insurance Company,KY,N/E,$-,"$39,912.04"
+285,36239,Anthem Health Plans of KY(Anthem BCBS),KY,"$15,230,315.39","$3,129,303.34","$4,368,115.21"
+286,40586,"Bluegrass Family Health, Inc.",KY,N/E,$-,"$(1,208,814.63)"
+287,45636,Care Source Kentucky Co.,KY,"$471,932.66","$(3,862,217.41)",$-
+288,45920,"United Healthcare of Ohio, Inc.",KY,N/E,$-,"$(293,318.64)"
+289,47949,Golden Rule Insurance Company,KY,"$305,383.84","$(1,451,612.01)",$-
+290,72001,"Wellcare Health Plans of Kentucky, Inc.",KY,"$11,980.94","$(53,971.89)",$-
+291,77029,All Savers Insurance Company,KY,N/E,$-,$(49.32)
+292,77894,Kentucky Health Cooperative,KY,"$35,150,774.64","$(2,353,554.57)","$(471,751.15)"
+293,14030,Aetna Life Insurance Company,LA,N/E,$-,"$20,110.13"
+294,19636,"HMO Louisiana, Inc.",LA,"$18,992,557.99","$(30,654,005.69)","$(1,581,186.14)"
+295,19913,Freedom Life Insurance,LA,"$215,088.93","$235,529.13",$-
+296,22381,Coventry Health and Life,LA,N/E,$-,"$(65,433.61)"
+297,31434,Time Insurance Company,LA,"$1,118,095.05","$(317,760.30)","$(14,565.43)"
+298,38499,"United Healthcare of Louisiana, Inc.",LA,"$12,768,745.19","$(16,112,496.42)","$(139,379.33)"
+299,44965,"Humana Health Benefit Plan of Louisiana, Inc.",LA,"$6,599,758.13","$(2,526,804.46)","$(4,759,020.22)"
+300,66593,United Healthcare Life Insurance Company,LA,"$225,872.10","$198,496.43",$-
+301,67202,"Louisiana Health Cooperative, Inc.",LA,"$6,806,873.05","$(8,658,833.22)","$(177,962.62)"
+302,67243,"Vantage Health Plan, Inc.",LA,"$2,858,301.90","$(261,974.85)","$(33,096.77)"
+303,69842,United Healthcare Insurance Company,LA,N/E,$-,"$(301,664.16)"
+304,81941,"Coventry Health Care of Louisiana, Inc.",LA,"$1,301,311.45","$(9,447,131.62)","$(727,200.20)"
+305,89219,John Alden Life Insurance Company,LA,N/E,$-,"$(30,629.80)"
+306,93653,All Savers Insurance Company,LA,N/E,$-,"$(20,620.65)"
+307,97176,Louisiana Health Service & Indemnity Company,LA,"$59,752,232.01","$67,544,981.11","$7,830,648.73"
+308,24675,"Blue Cross and Blue Shield of Massachusetts, Inc.",MA,"$96,895.37",N/A_MA_Issuer,N/A_MA_Issuer
+309,29125,Tufts Associated Health Maintenance Org,MA,"$5,505,443.18",N/A_MA_Issuer,N/A_MA_Issuer
+310,31234,CeltiCare Health Plan of MA,MA,"$87,686.69",N/A_MA_Issuer,N/A_MA_Issuer
+311,31779,United Healthcare Insurance Company,MA,"$201,936.84",N/A_MA_Issuer,N/A_MA_Issuer
+312,34484,"Health New England, Inc.",MA,"$1,633,271.41",N/A_MA_Issuer,N/A_MA_Issuer
+313,36046,Harvard Pilgrim Health Care Inc.,MA,"$8,132,224.47",N/A_MA_Issuer,N/A_MA_Issuer
+314,38712,Tufts Insurance Company,MA,"$1,002,595.01",N/A_MA_Issuer,N/A_MA_Issuer
+315,41304,Neighborhood Health Plan,MA,"$25,517,727.66",N/A_MA_Issuer,N/A_MA_Issuer
+316,42690,"Blue Cross and Blue Shield of Massachusetts HMO Blue, Inc.",MA,"$35,245,952.75",N/A_MA_Issuer,N/A_MA_Issuer
+317,52710,Fallon Health & Life Assurance Company,MA,"$14,000.29",N/A_MA_Issuer,N/A_MA_Issuer
+318,59763,Tufts Health Public Plans Inc.,MA,"$4,629,223.87",N/A_MA_Issuer,N/A_MA_Issuer
+319,73331,"Minuteman Health, Inc.",MA,"$349,712.48",N/A_MA_Issuer,N/A_MA_Issuer
+320,82569,"Boston Medical Center Health Plan, Inc.",MA,"$1,947,450.10",N/A_MA_Issuer,N/A_MA_Issuer
+321,88806,"Fallon Community Health Plan, Inc.",MA,"$2,396,568.39",N/A_MA_Issuer,N/A_MA_Issuer
+322,88950,"ConnectiCare of Massachusetts, Inc.",MA,$0.00,N/A_MA_Issuer,N/A_MA_Issuer
+323,95878,HPHC Insurance Company Inc.,MA,"$2,288,842.82",N/A_MA_Issuer,N/A_MA_Issuer
+324,14468,"Coventry Health Care of Delaware, Inc.",MD,N/E,$-,"$(6,945,127.90)"
+325,23620,United Healthcare Insurance Company,MD,N/E,$-,"$1,835,041.07"
+326,28137,"CareFirst Blue Choice, Inc.",MD,"$59,885,149.52","$(16,434,375.57)","$6,517,475.95"
+327,31112,United Healthcare of the MidAtlantic Inc.,MD,"$504,920.11","$(1,146,080.38)","$(1,678,830.01)"
+328,32812,Cigna Health and Life Insurance Company,MD,"$691,025.23","$1,034,979.80",$-
+329,36677,All Savers Insurance Company,MD,"$496,194.53","$596,980.74",$-
+330,45532,"CareFirst of Maryland, Inc.",MD,"$23,361,093.08","$22,545,287.16","$7,207,643.04"
+331,65635,MAMSI Life and Health Insurance Company,MD,N/E,$-,"$(282,416.80)"
+332,66516,Aetna Health Inc. (a PA corp.),MD,N/E,$-,"$(655,553.92)"
+333,68541,Coventry Health and Life,MD,N/E,$-,"$(1,649,007.49)"
+334,70767,Aetna Life Insurance Company,MD,N/E,$-,"$(2,554,392.85)"
+335,72375,"Optimum Choice, Inc.",MD,N/E,$-,"$(64,708.03)"
+336,72564,"Evergreen Health Cooperative, Inc.",MD,"$725,913.47","$(3,443,885.20)","$(20,766,948.84)"
+337,90296,"Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",MD,"$4,152,560.34","$(17,702,319.36)","$2,987,261.26"
+338,94084,GHMSI,MD,"$14,153,350.50","$14,549,412.84","$16,049,564.60"
+339,11593,HPHC Insurance Company Inc.,ME,"$405,479.23","$208,585.27","$2,498,771.66"
+340,33653,Maine Community Health Options,ME,"$40,987,289.61","$2,738,773.24","$(3,768,993.96)"
+341,48396,Anthem Health Plans of ME(Anthem BCBS),ME,"$6,658,488.70","$(3,917,017.08)","$688,516.26"
+342,53357,Aetna Life Insurance Company,ME,N/E,$-,"$1,790,597.54"
+343,73250,Aetna Health Inc. (a ME corp.),ME,"$80,946.55","$(207,447.42)","$(169,162.21)"
+344,90214,United Healthcare Insurance Company,ME,N/E,$-,"$(12,202.47)"
+345,96667,Harvard Pilgrim Health Care Inc.,ME,"$728,167.41","$1,177,105.98","$(1,027,526.86)"
+346,13667,Health Plus of Michigan,MI,"$913,424.81","$(4,076,070.63)","$83,736.21"
+347,15560,Blue Cross Blue Shield of Michigan Mutual Insurance Company,MI,"$79,301,872.92","$84,043,000.54","$11,876,518.15"
+348,20393,McLaren Health Plan,MI,"$1,279,803.45","$3,123,625.29","$(1,125,261.52)"
+349,20662,PHP Insurance Company,MI,N/E,$-,"$(40,531.33)"
+350,23592,Paramount Care of Michigan,MI,N/E,$-,"$(93,353.98)"
+351,29241,Priority Health Insurance Company (PHIC),MI,"$4,303,697.77","$37,908.56","$124,208.68"
+352,29698,Priority Health,MI,"$14,187,510.70","$(27,447,894.51)","$(2,734,798.34)"
+353,34620,"Harbor Health Plan, Inc.",MI,$0.00,$428.30,$-
+354,37651,Health Alliance Plan (HAP),MI,"$3,485,778.72","$3,869,249.10","$(1,604,360.74)"
+355,40047,"Molina Healthcare of Michigan, Inc.",MI,"$108,444.44","$(489,545.74)",$-
+356,41895,Consumers Mutual Insurance of Michigan,MI,"$2,288,287.67","$(7,071,364.84)","$(1,699,990.62)"
+357,45002,United Healthcare Life Insurance Company,MI,"$1,369,709.18","$358,625.01","$(62,155.35)"
+358,46275,"Humana Medical Plan of Michigan, Inc.",MI,"$5,237,342.47","$(10,842,830.41)",$-
+359,52670,All Savers Insurance Company,MI,N/E,$-,"$(116,036.56)"
+360,58594,"Meridian Health Plan of Michigan, Inc.",MI,$0.00,"$45,009.16",$-
+361,58996,US Health and Life Insurance Company,MI,N/E,$-,"$4,588.65"
+362,59140,Nippon Life Insurance Company of America,MI,N/E,$-,"$(45,156.26)"
+363,59830,Health Plus Insurance Company,MI,"$9,028,543.74","$(4,117,248.29)","$469,960.22"
+364,60829,Physicians Health Plan,MI,"$188,485.20","$(347,998.34)","$(665,160.05)"
+365,62294,Humana Insurance Company,MI,"$1,227,648.12","$(356,523.02)","$(541,342.84)"
+366,63631,United Healthcare Insurance Company,MI,N/E,$-,"$(1,154,312.92)"
+367,67183,"Total Health Care USA, Inc.",MI,"$1,534,183.55","$1,882,988.25","$192,637.06"
+368,67577,Alliance Health and Life Insurance Company,MI,"$2,909,573.77","$4,463,306.20","$(282,556.40)"
+369,71667,"United Healthcare Community Plan, Inc.",MI,"$750,094.76","$(3,038,785.10)",$-
+370,79970,John Alden Life Insurance Company,MI,N/E,$-,"$(25,243.15)"
+371,81068,Aetna Life Insurance Company,MI,"$613,608.61","$(1,395,523.24)",$-
+372,82649,Federated Mutual Insurance Company,MI,N/E,$-,"$(4,753,200.26)"
+373,89029,Time Insurance Company,MI,"$2,392,980.67","$1,364,106.91","$(129,271.65)"
+374,90602,National Health Insurance Company,MI,$0.00,$-,"$4,739.35"
+375,95233,Paramount Insurance Company,MI,N/E,$-,"$137,653.70"
+376,98185,Blue Care Network of Michigan,MI,"$46,831,049.28","$(40,004,463.16)","$2,178,690.19"
+377,27439,Time Insurance Company,MN,"$3,319,642.29","$1,018,837.12","$(74,883.14)"
+378,31616,Medica Insurance Company,MN,"$4,415,250.76","$(5,042,829.16)","$9,261,067.53"
+379,34102,"Group Health Plan, Inc.",MN,"$4,673,126.71","$(4,257,609.45)",$-
+380,49316,"BCBSM, INC.",MN,"$125,759,129.37","$29,086,945.86","$15,764,245.94"
+381,52346,Sanford Health Plan of Minnesota,MN,N/E,$-,"$(144,150.88)"
+382,56971,John Alden Life Insurance Company,MN,"$3,609.11","$(93,357.87)","$(43,185.94)"
+383,57129,HMO Minnesota,MN,"$3,272,853.74","$865,806.78","$(307,685.44)"
+384,60769,Federated Mutual Insurance Company,MN,N/E,$-,"$(4,702,535.67)"
+385,65847,Medica Health Plans of Wisconsin,MN,"$6,052,960.34","$7,678,426.35",$-
+386,70373,"Gundersen Health Plan Minnesota, Inc.",MN,"$113,550.68","$(17,274.78)","$(76,964.50)"
+387,79888,"HealthPartners, Inc.",MN,N/E,"$31,708.01","$(13,774,545.17)"
+388,85654,HealthPartners Insurance Company,MN,"$9,288,091.28","$(29,118,111.14)","$(3,345,685.38)"
+389,85736,UCare Minnesota,MN,"$1,959,663.44","$(5,906,132.97)",$-
+390,88102,Preferred One Insurance Company,MN,"$4,222,933.09","$5,753,591.46","$(3,077,770.23)"
+391,97624,Preferred One Community Health Plan,MN,N/E,$-,"$522,092.71"
+392,12363,Standard Security Life,MO,N/E,$-,"$(4,617.80)"
+393,14026,Time Insurance Company,MO,"$3,138,358.14","$3,559,221.84","$(166,224.74)"
+394,14162,United Healthcare Life Insurance Company,MO,"$3,675,197.04","$1,543,008.50",$-
+395,16049,All Savers Insurance Company,MO,"$10,203,410.75","$(10,361,029.92)",$-
+396,27401,Trustmark Life Insurance Company,MO,$0.00,"$(53,584.07)",$-
+397,30613,Humana Insurance Company,MO,"$4,910,519.65","$(188,325.95)","$(3,938,829.87)"
+398,32753,Healthy Alliance Life Co(Anthem BCBS),MO,"$19,470,609.22","$7,298,221.08","$5,340,341.52"
+399,32898,Aetna Health Inc. (a PA corp.),MO,N/E,$-,"$(7,377.38)"
+400,34762,Blue Cross and Blue Shield of Kansas City,MO,"$22,865,750.61","$20,705,929.36","$(325,653.60)"
+401,44240,Coventry Health and Life,MO,"$31,011,926.25","$(20,980,901.39)","$(233,857.65)"
+402,44527,Coventry Health & Life Insurance Co.,MO,"$28,854,403.54","$(1,547,250.27)","$(5,494.46)"
+403,48161,Aetna Life Insurance Company,MO,N/E,$-,"$258,345.46"
+404,49221,John Alden Life Insurance Company,MO,N/E,$-,"$30,517.37"
+405,64701,Federated Mutual Insurance Company,MO,N/E,$-,"$(2,366,698.58)"
+406,74483,Cigna Health and Life Insurance Company,MO,"$2,682,965.04","$1,879,512.84",$-
+407,77660,"Coventry Health Care of Missouri, Inc.",MO,"$37,693.57","$34,117.16",$-
+408,92766,"HMO Missouri, Inc.(Anthem BCBS)",MO,N/E,$-,"$(153,568.66)"
+409,95426,United Healthcare Insurance Company,MO,N/E,$-,"$2,802,884.90"
+410,96384,Cox Health Systems Insurance Company,MO,"$1,954,932.69","$(1,884,389.93)","$(1,229,766.58)"
+411,99723,Celtic Insurance Company,MO,$0.00,"$(4,529.50)",$-
+412,11721,Blue Cross & Blue Shield of Mississippi,MS,"$8,234,968.46","$2,213,375.40","$27,685.38"
+413,26781,All Savers Insurance Company,MS,N/E,$-,"$(27,052.78)"
+414,38420,Federated Mutual Insurance Company,MS,N/E,$-,"$(75,474.34)"
+415,45521,Time Insurance Company,MS,"$1,557,641.67","$(67,176.42)","$(113,965.64)"
+416,48963,Humana Insurance Company,MS,"$18,785,123.87","$13,191,678.23","$(52,010.25)"
+417,49900,John Alden Life Insurance Company,MS,N/E,$-,"$(57,304.43)"
+418,61794,United Healthcare Life Insurance Company,MS,"$178,090.31","$(448,183.32)","$(40,377.81)"
+419,83808,Coventry Health and Life,MS,"$62,611.94","$(199,659.48)","$(154,417.17)"
+420,94237,Magnolia Health Plan,MS,"$4,586,657.17","$(4,508,929.62)",$-
+421,96734,Freedom Life Insurance,MS,$0.00,$(289.05),$-
+422,97560,"United Healthcare of Mississippi, Inc.",MS,"$8,893,140.98","$(10,180,815.77)","$451,573.88"
+423,98805,United Healthcare Insurance Company,MS,N/E,$-,"$41,343.20"
+424,23603,Pacific Source Health Plans,MT,"$7,013,675.92","$(805,324.98)","$(1,744,039.87)"
+425,24867,Time Insurance Company,MT,"$2,894,124.53","$1,231,200.88","$(309,927.67)"
+426,30751,Blue Cross and Blue Shield of Montana,MT,"$29,263,271.43","$(4,708,322.25)","$(89,903.73)"
+427,32225,Montana Health Cooperative,MT,"$14,667,714.03","$4,282,446.27","$1,822,462.95"
+428,45632,WMI Mutual Insurance Company,MT,N/E,$-,"$58,225.04"
+429,46621,United Healthcare Insurance Company,MT,N/E,$-,"$9,085.52"
+430,49669,Madison National Life,MT,N/E,$-,"$(10,799.68)"
+431,64206,John Alden Life Insurance Company,MT,N/E,$-,"$264,897.43"
+432,11512,Blue Cross and Blue Shield of NC,NC,"$222,234,005.55","$67,566,338.19","$15,759,733.78"
+433,24588,Federated Mutual Insurance Company,NC,N/E,$-,"$236,116.42"
+434,32237,Humana Insurance Company,NC,"$293,030.60","$(520,970.75)",$-
+435,40411,Cigna Health and Life Insurance Company,NC,"$293,355.40","$596,150.26",$-
+436,42754,United Healthcare Life Insurance Company,NC,"$1,230,433.68","$(684,964.86)",$-
+437,43283,First Carolina Care Insurance Company,NC,$0.00,$-,"$(137,223.74)"
+438,44007,Celtic Insurance Company,NC,$0.00,"$8,222.85",$-
+439,54332,"United Healthcare of North Carolina, Inc.",NC,"$26,513,178.72","$(15,787,937.71)","$(1,665,560.71)"
+440,56346,"Coventry Health Care of the Carolinas, Inc.",NC,"$38,747,450.73","$(47,680,707.29)","$(9,400,776.79)"
+441,58658,United Healthcare Ins Co of River Valley,NC,N/E,$-,"$(1,453,280.86)"
+442,59977,John Alden Life Insurance Company,NC,$0.00,"$(138,633.22)","$(11,962.08)"
+443,61644,Aetna Life Insurance Company,NC,"$651,988.51","$(715,751.32)","$(157,069.07)"
+444,61671,Aetna Health Inc. (a PA corp.),NC,N/E,$-,"$(322,190.74)"
+445,69347,United Healthcare Insurance Company,NC,N/E,$-,"$(2,306,736.60)"
+446,72487,All Savers Insurance Company,NC,N/E,$-,"$(102,300.28)"
+447,76871,Standard Security Life,NC,N/E,$-,"$(13,138.66)"
+448,87696,Time Insurance Company,NC,"$2,414,167.19","$(2,641,746.14)","$(271,229.67)"
+449,94459,Coventry Health & Life Insurance Company,NC,N/E,$-,"$(154,381.20)"
+450,37160,Blue Cross Blue Shield of North Dakota,ND,"$12,584,324.78","$1,716,903.71","$22,846.40"
+451,39364,Medica Insurance Company,ND,N/E,$-,"$(79,596.59)"
+452,55105,Time Insurance Company,ND,"$1,949,251.42","$(162,737.22)","$155,951.59"
+453,73751,Medica Health Plans,ND,"$1,918,693.80","$(825,246.58)","$389,024.19"
+454,89364,Sanford Health Plan,ND,"$935,693.69","$(728,919.89)","$(429,914.25)"
+455,99806,John Alden Life Insurance Company,ND,N/E,$-,"$(58,311.32)"
+456,10324,Freedom Life Insurance,NE,$0.00,"$4,484.41",$-
+457,15438,Coventry Health Care of Nebraska Inc.,NE,"$19,997,409.37","$(13,630,630.99)","$(516,160.25)"
+458,19524,Time Insurance Company,NE,"$4,734,632.44","$6,667,658.89","$883,774.73"
+459,29678,Blue Cross and Blue Shield of Nebraska,NE,"$32,361,756.58","$13,541,049.63","$3,977,257.76"
+460,43198,CoOportunity Health,NE,"$2,009,586.78","$(10,205,123.79)","$(7,075,784.88)"
+461,47340,Federated Mutual Insurance Company,NE,N/E,$-,"$(1,283,549.38)"
+462,68389,United Healthcare Life Insurance Company,NE,"$2,875,324.11","$3,559,594.19",$-
+463,73102,United Healthcare Insurance Company,NE,N/E,$-,"$4,054,594.92"
+464,77931,Health Alliance Midwest Inc.,NE,"$35,928.95","$14,477.63","$(8,134.69)"
+465,79636,Coventry Health and Life Insurance Co.,NE,$0.00,"$48,490.02","$(4,014.32)"
+466,80698,John Alden Life Insurance Company,NE,N/E,$-,"$(21,958.59)"
+467,89156,Standard Security Life,NE,N/E,$-,"$(6,025.22)"
+468,19304,Maine Community Health Options,NH,"$3,312,367.91","$5,306,302.38","$(3,569,171.62)"
+469,42260,Time Insurance Company,NH,"$4,992,365.74","$6,151,610.42",$-
+470,51889,United Healthcare Insurance Company,NH,N/E,$-,"$(233,115.68)"
+471,57601,Anthem Health Plans of NH(Anthem BCBS),NH,N/E,$-,"$1,336,166.23"
+472,59025,Harvard Pilgrim Health Care of NE,NH,"$2,619,722.76","$(1,229,943.19)","$(843,133.48)"
+473,61163,"Minuteman Health, Inc.",NH,"$2,115,269.73","$(10,494,673.57)","$(46,195.18)"
+474,71616,"HPHC Insurance Company, Inc.",NH,N/E,$-,"$1,875,267.30"
+475,75841,Celtic Insurance Company,NH,"$112,703.95","$110,166.00",$-
+476,96751,Matthew Thornton Hlth Plan(Anthem BCBS),NH,"$8,351,137.21","$156,537.94","$1,480,182.40"
+477,10191,"Freelancers CO-OP of New Jersey, Inc.",NJ,"$25,518,743.04","$(38,582,686.31)","$(7,735,504.78)"
+478,13953,Horizon HMO,NJ,$0.00,$(945.51),"$3,193,510.84"
+479,23458,Cigna Health and Life Insurance Company,NJ,N/E,$-,"$177,415.53"
+480,41014,"Cigna HealthCare of New Jersey, Inc.",NJ,"$645,603.45","$817,727.44","$48,511.09"
+481,48834,"Oxford Health Plans (NJ), Inc.",NJ,"$12,200,483.35","$18,952,235.00","$(185,240.53)"
+482,50221,Oscar Insurance Corporation of New Jersey,NJ,"$945,235.86","$(1,957,295.70)",$-
+483,77263,"Oxford Health Insurance, Inc.",NJ,"$16,261,309.29","$44,955,766.00","$5,736,032.94"
+484,77606,"AmeriHealth HMO, Inc.",NJ,"$8,830,357.66","$(4,859,744.69)","$(14,888,625.20)"
+485,82884,Aetna Health Inc. (a NJ corp.),NJ,N/E,$-,"$(18,109,387.03)"
+486,89217,Aetna Life Insurance Company,NJ,"$3,126,673.44","$5,290,240.82","$2,477,419.03"
+487,91661,"Horizon Healthcare Services, Inc.",NJ,"$85,563,520.22","$(62,882,998.27)","$36,636,642.31"
+488,91762,AmeriHealth Ins Company of New Jersey,NJ,"$49,658,797.40","$38,267,701.25","$(7,350,774.16)"
+489,19722,"Molina Health Care of New Mexico, Inc.",NM,"$300,867.77","$(265,619.48)",$-
+490,52744,Presbyterian Insurance Company,NM,N/E,$-,"$(818,490.89)"
+491,57173,Presbyterian Health Plan,NM,"$5,375,417.38","$(2,390,195.41)","$620,026.82"
+492,72034,CHRISTUS Health Plan,NM,"$22,695.10","$(455,783.17)",$-
+493,75605,Blue Cross Blue Shield of New Mexico,NM,"$25,478,424.19","$14,139,955.41","$4,123,735.82"
+494,90762,United Healthcare Insurance Company,NM,N/E,$-,"$309,179.06"
+495,93091,New Mexico Health Connections,NM,"$5,515,873.35","$(11,035,028.09)","$(3,534,467.65)"
+496,97132,"Lovelace Health System, Inc.",NM,$0.00,$-,"$(699,983.20)"
+497,97646,Time Insurance Company,NM,$0.00,"$6,670.67",$-
+498,16698,Prominence Health First,NV,"$2,492,308.28","$3,206,374.59","$(1,767,200.16)"
+499,17255,Golden Rule Insurance Company,NV,"$617,441.35","$(1,803,076.90)",$-
+500,19298,Aetna Health Inc. (a PA corp.),NV,"$44,592.70","$(1,143,730.03)","$261,732.04"
+501,20895,Humana Insurance Company,NV,"$2,037,936.77","$1,431,529.89","$(1,141,023.21)"
+502,27990,Aetna Life Insurance Company,NV,"$1,532,987.48","$(7,118,682.16)","$672,487.49"
+503,29211,Time Insurance Company,NV,"$13,121,851.53","$9,178,690.86","$(712,661.85)"
+504,33670,Rocky Mountain Hos&Med Svc(Anthem BCBS),NV,"$2,721,897.49","$(4,821,040.08)","$3,892,116.41"
+505,34996,Nevada Health CO-OP,NV,"$8,846,611.34","$5,244,157.68","$(711,597.39)"
+506,41094,"Hometown Health Plan, Inc.",NV,$0.00,"$(64,141.23)","$(535,962.57)"
+507,42313,WMI Mutual Insurance Company,NV,N/E,$-,"$(37,460.95)"
+508,49021,Coventry Health & Life Insurance Company,NV,$0.00,$-,"$(282,676.61)"
+509,60156,HMO Colorado Inc. dba HMO NV(Anthem BCBS),NV,"$5,077,744.17","$(8,860,894.35)","$(27,406.00)"
+510,65693,Freedom Life Insurance Company of America,NV,$0.00,"$1,509.65",$-
+511,65779,Altius Health Plans Inc.,NV,$0.00,$-,"$35,537.64"
+512,68307,Celtic Insurance Company,NV,$0.00,"$(10,494.15)",$-
+513,68524,"Prominence Preferred Health Insurance Company, Inc.",NV,N/E,$-,"$1,300,037.30"
+514,74222,United Healthcare Insurance Company,NV,N/E,$-,"$1,288,122.46"
+515,83198,"Sierra Health and Life Ins Company, Inc.",NV,"$10,119,419.06","$4,132,272.63","$72,611.26"
+516,85266,Hometown Health Providers Ins. Co. Inc.,NV,"$217,980.45","$397,248.75","$(1,757,923.69)"
+517,87446,John Alden Life Insurance Company,NV,N/E,$-,"$(333,228.58)"
+518,93696,Humana Health Plan Inc.,NV,$0.00,$-,"$(48,965.47)"
+519,95865,"Health Plan of Nevada, Inc.",NV,"$8,222,371.58","$230,274.90","$(166,538.16)"
+520,11177,MetroPlus Health Plan,NY,"$5,191,276.87","$(30,578,616.79)","$(1,666,323.89)"
+521,17210,Aetna Life Insurance Company,NY,"$4,506,213.00","$9,153,245.87","$(92,687,139.68)"
+522,18029,Independent Health Benefits Corporation,NY,"$2,216,885.52","$7,655,906.80","$7,032,740.32"
+523,25303,"New York State Catholic Health Plan, Inc.",NY,"$13,867,355.91","$(56,655,138.64)",$-
+524,26420,"Oxford Health Plans (NY), Inc.",NY,"$37,053,494.34","$75,516,356.91","$(34,043,889.75)"
+525,36346,BlueShield of Northeastern New York,NY,"$347,699.17","$420,500.61","$791,105.07"
+526,39595,WellCare of New York,NY,"$64,785.18","$(846,218.15)",$-
+527,40064,HealthNow New York,NY,$0.00,"$3,626.81","$(68,200.88)"
+528,43477,Crystal Run Health Insurance Company Inc.,NY,N/E,$-,"$(578,572.33)"
+529,44113,"Empire HealthChoice Assurance, Inc.",NY,N/E,$-,"$(1,060,038.06)"
+530,49526,BlueCross BlueShield of Western New York,NY,"$3,377,361.29","$8,271,129.24","$2,132,100.46"
+531,50138,Aetna Health Inc. (a NY corp.),NY,N/E,$-,"$(2,194,924.08)"
+532,54235,"United Healthcare of New York, Inc.",NY,"$7,508,442.74","$10,564,737.15",$-
+533,54297,United Healthcare Ins Co of New York,NY,"$71,627.97","$(7,577.79)","$(207,851.87)"
+534,56184,"MVP Health Plan, Inc.",NY,"$14,469,727.59","$25,548,029.99","$(2,504,923.46)"
+535,57165,"Affinity Health Plan, Inc.",NY,"$2,549,532.70","$(24,567,668.78)",$-
+536,70552,"Independent Health Association, Inc.",NY,$0.00,$-,"$(574,088.49)"
+537,71644,Freelancers Health Service Corporation d/b/a Health Republic I f N Y k,NY,"$51,763,635.04","$(37,496,765.22)","$(153,842,015.39)"
+538,73886,Crystal Run Health Plan LLC,NY,"$7,327.98","$(41,505.88)","$(60,517.29)"
+539,74289,Oscar Insurance Corporation,NY,"$19,771,125.40","$(30,977,083.32)",$-
+540,78124,"Excellus Health Plan, Inc.",NY,"$20,303,711.74","$44,746,473.20","$(2,719,871.69)"
+541,80519,"Empire HealthChoice HMO, Inc.",NY,"$40,523,011.28","$31,931,835.18","$1,170,127.82"
+542,82483,North Shore-LIJ Insurance Company Inc.,NY,"$8,737,682.64","$2,282,312.43","$(13,302,063.81)"
+543,83744,"Managed Health, Inc.",NY,N/E,$-,"$(67,696.17)"
+544,85629,"Oxford Health Insurance, Inc.",NY,N/E,$-,"$315,374,419.88"
+545,88000,Group Health Incorporated,NY,"$52,165.83","$(72,128.30)",$(547.64)
+546,88582,Health Insurance Plan of Greater New York,NY,"$11,925,482.58","$5,515,480.63","$(36,417,583.95)"
+547,89846,MVP Health Services Corp.,NY,N/E,$-,"$2,025,401.59"
+548,91237,"Healthfirst PHSP, Inc.",NY,"$6,632,379.19","$(48,556,174.15)",$-
+549,92551,CDPHP Universal Benefits Inc.,NY,N/E,$-,"$10,072,804.56"
+550,94788,CDPHP,NY,"$3,850,329.69","$8,189,242.42","$3,397,548.58"
+551,12512,Medical Benefits Mutual Life Insurance,OH,N/E,$-,"$(523,658.60)"
+552,14650,Time Insurance Company,OH,"$2,839,186.95","$2,988,966.30","$472,321.42"
+553,16204,"Coordinated Health Mutual, Inc.",OH,"$15,348,555.75","$(3,985,495.69)","$(3,214,448.51)"
+554,20126,HealthSpan Integrated Care,OH,"$3,299,755.23","$(4,273,438.02)","$(6,425,628.16)"
+555,26734,"Premier Health Plan, Inc.",OH,"$504,045.20","$(2,005,787.99)",$-
+556,28162,AultCare Insurance Company,OH,"$2,358,684.92","$(246,739.17)","$(514,739.16)"
+557,29276,Community Insurance Company(Anthem BCBS),OH,"$19,003,555.17","$19,027,175.55","$14,407,578.76"
+558,33232,United Healthcare Ins Co of River Valley,OH,N/E,$-,"$(1,790,106.79)"
+559,33931,"United Healthcare of Ohio, Inc.",OH,"$2,220,823.05","$2,912,248.94",$-
+560,41047,Buckeye Community Health Plan,OH,"$649,923.90","$(6,141,372.01)",$-
+561,50498,John Alden Life Insurance Company,OH,N/E,$-,"$109,425.34"
+562,52664,"Summa Insurance Company, Inc.",OH,"$2,387,747.27","$35,681.99","$2,820,322.62"
+563,56073,Nippon Life Insurance Company of America,OH,N/E,$-,"$(356,412.77)"
+564,56726,United Healthcare Insurance Company,OH,N/E,$-,"$1,775,202.40"
+565,61724,United Healthcare Life Insurance Company,OH,"$2,327,012.20","$2,965,356.57","$(4,212,359.07)"
+566,62352,Celtic Insurance Company,OH,$0.00,"$(11,014.35)",$-
+567,64353,Molina Healthcare of Ohio,OH,"$879,097.17","$1,592,334.51",$-
+568,66083,"Humana Health Plan of Ohio, Inc.",OH,"$5,155,494.73","$(1,928,407.65)","$(2,483,141.65)"
+569,67129,Aetna Life Insurance Company,OH,"$6,603,468.90","$(16,376,734.46)","$(481,369.85)"
+570,74313,Paramount Insurance Company,OH,"$1,272,564.12","$(580,499.95)","$(264,272.01)"
+571,76169,Standard Security Life,OH,N/E,$-,"$(34,299.53)"
+572,77552,Care Source,OH,"$9,244,613.09","$(16,752,738.98)",$-
+573,80627,Medical Mutual of Ohio,OH,"$28,206,438.29","$6,545,046.13","$4,026,922.80"
+574,83396,The Health Plan of the Upper Ohio Valley,OH,"$7,876.07","$(74,715.60)","$(306,668.86)"
+575,84867,Aetna Health Inc. (a PA corp.),OH,N/E,$-,"$(2,831,979.85)"
+576,92036,Health Span,OH,"$4,160,340.95","$(6,743,522.63)","$(471,429.58)"
+577,96800,Federated Mutual Insurance Company,OH,N/E,$-,"$(999,288.99)"
+578,97596,Humana Insurance Company,OH,"$2,367,594.63","$1,602,746.25","$(114,966.92)"
+579,98810,THP Insurance Company,OH,N/E,$-,"$218,531.10"
+580,98894,Coventry Health and Life,OH,"$30,125.07","$60,728.80","$1,096,038.61"
+581,99969,Medical Health Insuring Corp. of Ohio,OH,"$39,155,019.99","$21,390,181.45","$98,427.31"
+582,23468,Humana Insurance Company,OK,"$66,173.45","$74,763.49","$(69,246.02)"
+583,27243,Federated Mutual Insurance Company,OK,N/E,$-,"$(492,326.98)"
+584,29176,Time Insurance Company,OK,"$2,438,106.47","$2,221,935.85","$(149,749.38)"
+585,45480,"United Healthcare of Oklahoma, Inc.",OK,N/E,$-,"$244,157.12"
+586,53524,Coventry Health and Life,OK,"$22,512.40","$(200,398.31)","$(816,839.40)"
+587,62505,Celtic Insurance Company,OK,$0.00,"$(5,294.26)",$-
+588,66946,Aetna Life Insurance Company,OK,$0.00,"$(37,821.69)","$65,348.50"
+589,67088,John Alden Life Insurance Company,OK,N/E,$-,"$(178,744.41)"
+590,76275,Aetna Health Inc. (a PA corp.),OK,N/E,$-,"$(184,766.55)"
+591,76668,"Coventry Health Care of Kansas, Inc.",OK,$0.00,"$(49,715.88)","$4,087.06"
+592,82209,Freedom Life Insurance,OK,"$55,231.57","$19,738.01",$-
+593,85408,"Global Health, Inc.",OK,"$611,619.22",N/A_DefaultCharge,N/A_DefaultCharge
+594,85757,United Healthcare Insurance Company,OK,N/E,$-,"$(144,362.05)"
+595,87571,Blue Cross Blue Shield of Oklahoma,OK,"$84,233,897.40","$(4,417,436.82)","$4,443,491.14"
+596,87698,Community Care Life & Health Insurance Co,OK,$0.00,"$1,200.32","$(1,132,219.85)"
+597,98704,United Healthcare Life Insurance Company,OK,"$1,663,019.16","$637,091.31",$-
+598,98905,Community Care HMO Inc.,OK,"$919,447.27","$1,755,937.92","$(1,588,829.22)"
+599,10091,Pacific Source Health Plans,OR,"$8,483,371.78","$6,385,295.65","$(263,011.36)"
+600,10940,"Health Net Health Plan of Oregon, Inc.",OR,"$1,855,731.14","$3,408,186.75","$45,710.69"
+601,32536,ATRIO Health Plans,OR,"$59,191.36","$(163,736.68)","$(28,002.50)"
+602,33375,"Samaritan Health Plans, Inc.",OR,N/E,$-,"$198,705.22"
+603,39424,"Moda Health Plan, Inc.",OR,"$62,768,010.24","$(10,916,304.04)","$(1,070,895.13)"
+604,56707,Providence Health Plan,OR,"$9,861,302.28","$(4,161,991.69)","$3,092,137.34"
+605,59129,Trustmark Life Insurance Company,OR,$0.00,"$(17,648.46)",$-
+606,63474,Bridge Span Health Company,OR,"$37,956.63","$(143,117.09)",$-
+607,71287,Kaiser Foundation Healthplan of the NW,OR,"$6,778,961.76","$13,259,754.64","$2,707,325.99"
+608,74571,Time Insurance Company,OR,"$2,406,023.93","$2,081,868.31",$-
+609,77969,Regence BlueCross BlueShield of Oregon,OR,"$5,234,032.69","$5,024,567.08","$5,570,483.58"
+610,85804,Life Wise Health Plan of Oregon,OR,"$17,015,844.50","$(19,940,058.64)","$(1,675,210.84)"
+611,90175,United Healthcare Insurance Company,OR,N/E,$-,"$(533,017.71)"
+612,95417,Trillium Community Health Plan,OR,$0.00,"$(29,917.47)","$(10,819.44)"
+613,96383,"Freelancers Consumer Operated and Oriented Program of Oregon, Inc. DBA H l h R bli I C",OR,"$4,599,868.44","$4,811,777.33","$(6,718,133.30)"
+614,99389,"Community Care of Oregon, Inc.",OR,"$4,781,867.05","$401,324.32","$(1,315,272.66)"
+615,10842,Celtic Insurance Company,PA,$0.00,"$(2,443.12)",$-
+616,16072,Coventry Health and Life Insurance Co.,PA,$0.00,$-,"$(101,341.75)"
+617,16322,"UPMC Health Options, Inc.",PA,"$17,829,957.20","$(3,105,783.44)","$5,913,428.11"
+618,16481,"UPMC Health Network, Inc.",PA,$0.00,$-,"$(1,036,677.48)"
+619,19068,Time Insurance Company,PA,"$3,985,277.18","$3,948,940.01","$(394,254.42)"
+620,22444,Geisinger Health Plan,PA,"$9,210,149.64","$11,417,706.62","$(2,139,258.77)"
+621,23489,United Healthcare Insurance Company,PA,N/E,$-,"$(5,371,431.92)"
+622,24872,"United Healthcare of Pennsylvania, Inc.",PA,"$6,776,914.14","$(39,114,321.98)",$-
+623,31609,Independence Blue Cross (QCC Ins. Co.),PA,"$43,123,145.04","$64,851,297.02","$24,985,336.80"
+624,33709,Highmark Inc.,PA,"$106,807,043.50","$(46,784,130.23)","$(7,096,865.07)"
+625,33871,"Keystone Health Plan East, Inc.",PA,"$49,296,370.95","$(12,386,830.58)","$(4,106,693.90)"
+626,33906,Aetna Life Insurance Company,PA,"$4,647,588.91","$(9,332,073.48)","$(361,486.58)"
+627,38949,Keystone Health Plan West,PA,"$81,947.41","$63,115.80","$(7,980.98)"
+628,45127,Capital Advantage Assurance Company,PA,"$4,546,704.54","$6,863,660.42","$(3,297,707.87)"
+629,45404,United Healthcare Life Insurance Company,PA,"$1,102,044.68","$1,720,000.53",$-
+630,48788,Inter-County Hospital Plan,PA,N/E,$-,"$(508,919.29)"
+631,52899,"UPMC Health Plan, Inc.",PA,"$32,889.28","$197,264.42","$(5,456.23)"
+632,53789,Keystone Health Plan Central,PA,"$1,234,878.34","$298,016.86","$5,269.47"
+633,55957,"First Priority Life Insurance Company, Inc.",PA,"$22,715,787.15","$(3,237,217.38)","$(305,360.64)"
+634,58819,John Alden Life Insurance Company,PA,N/E,$-,"$(101,659.48)"
+635,62560,"UPMC Health Coverage, Inc.",PA,$0.00,"$(11,718.30)","$(317,612.72)"
+636,64844,Aetna Health Inc. (a PA corp.),PA,"$6,959,835.96","$(25,852,344.53)","$(1,628,024.96)"
+637,70194,Highmark Health Insurance Company,PA,"$37,266,490.45","$51,852,279.70","$777,889.23"
+638,75729,Geisinger Quality Options,PA,"$1,529,545.49","$1,142,253.34","$(1,613,339.93)"
+639,79279,Highmark Coverage Advantage Inc.,PA,$0.00,$-,"$220,267.91"
+640,79962,Highmark Benefits Group Inc.,PA,$0.00,$-,"$(984,206.65)"
+641,80148,Federated Mutual Insurance Company,PA,N/E,$-,"$(2,549,615.51)"
+642,82795,Capital Advantage Insurance Company CAIC,PA,$0.00,$-,"$84,421.79"
+643,91303,"Health America Pennsylvania, Inc.",PA,"$2,391,915.15","$(2,527,671.54)",$-
+644,93838,"Health Assurance PA, Inc.",PA,N/E,$-,"$(58,719.48)"
+645,15287,Blue Cross & Blue Shield of Rhode Island,RI,"$11,366,007.86","$9,680,258.57","$5,753,305.59"
+646,26322,Tufts Insurance Company,RI,N/E,$-,"$965,515.97"
+647,77514,Neighborhood Health Plan of Rhode Island,RI,"$1,435,292.63","$(8,608,201.54)","$(343,863.12)"
+648,79881,"United Healthcare of New England, Inc.",RI,"$205,106.29","$(1,072,057.02)","$(4,145,329.17)"
+649,90010,Tufts Associated Health Maintenance Org,RI,$0.00,$-,"$(974,465.99)"
+650,90117,United Healthcare Insurance Company,RI,N/E,$-,"$(1,255,163.31)"
+651,14820,Nippon Life Insurance Company of America,SC,N/E,$-,"$(166,996.90)"
+652,17808,Humana Insurance Company,SC,$0.00,"$16,975.57",$-
+653,22369,Aetna Life Insurance Company,SC,N/E,$-,"$(183,730.56)"
+654,26065,Blue Cross and Blue Shield of South Carolina,SC,"$26,799,911.31","$8,615,922.98","$2,446,555.38"
+655,33609,Federated Mutual Insurance Company,SC,N/E,$-,"$1,063,092.09"
+656,39481,United Healthcare Life Insurance Company,SC,"$2,087,442.23","$(414,394.03)",$-
+657,39996,Time Insurance Company,SC,"$4,797,608.36","$5,534,568.01","$283,969.26"
+658,41614,"Coventry Health Care of the Carolinas, Inc.",SC,"$16,573,921.48","$(3,234,564.95)","$577,520.93"
+659,49532,"Blue Choice Health Plan of South Carolina, Inc.",SC,"$18,814,117.01","$3,622,506.76","$(3,934,492.42)"
+660,54362,Cigna Health and Life Insurance Company,SC,"$262,626.52","$437,792.66",$-
+661,56262,Coventry Health & Life Insurance Company,SC,N/E,$-,"$(136,305.65)"
+662,57860,United Healthcare Insurance Company,SC,N/E,$-,"$472,850.30"
+663,60067,Celtic Insurance Company,SC,$0.00,"$(15,341.23)",$-
+664,64146,United Healthcare Ins Co of River Valley,SC,N/E,$-,"$16,395.03"
+665,65122,Consumers' Choice Health Insurance Company,SC,"$36,699,256.40","$(14,555,844.07)","$(470,419.09)"
+666,73714,Standard Security Life,SC,N/E,$-,"$(3,867.10)"
+667,80431,Freedom Life Insurance,SC,"$7,907.84","$(7,622.19)",$-
+668,89728,John Alden Life Insurance Company,SC,N/E,$-,"$35,428.72"
+669,31195,Sanford Health Plan,SD,"$1,912,816.62","$201,919.38","$225,580.45"
+670,50305,Wellmark of South Dakota,SD,"$8,866,320.54","$(1,043,395.44)","$1,566,498.82"
+671,60536,"Avera Health Plans, Inc.",SD,"$7,492,141.61","$3,672,370.39","$(81,015.67)"
+672,62210,DAKOTACARE,SD,"$9,167,019.56","$(2,809,177.34)","$(1,242,844.35)"
+673,64255,Federated Mutual Insurance Company,SD,N/E,$-,"$(268,825.85)"
+674,66837,Coventry Health and Life Insurance Co.,SD,$0.00,$-,"$(180,679.77)"
+675,77144,Time Insurance Company,SD,"$381,824.21","$(21,716.99)","$(8,782.86)"
+676,96594,Medica Insurance Company,SD,N/E,$-,"$(9,930.72)"
+677,10958,United Healthcare Ins Co of River Valley,TN,N/E,$-,"$(4,628,908.57)"
+678,14002,BlueCross BlueShield of Tennessee,TN,"$125,248,679.99","$22,571,330.93","$5,242,633.55"
+679,17032,Nippon Life Insurance Company of America,TN,N/E,$-,"$8,032.52"
+680,31552,Aetna Life Insurance Company,TN,"$76,105.04","$(112,658.65)","$256,967.28"
+681,40778,John Alden Life Insurance Company,TN,N/E,$-,"$(46,256.21)"
+682,48069,United Healthcare Life Insurance Company,TN,"$199,560.67","$315,512.89",$-
+683,60299,Time Insurance Company,TN,"$2,195,845.50","$746,097.06",$-
+684,66842,Community Health Alliance Mutual Insurance Company,TN,"$10,276,444.62","$(25,536,300.68)","$(35,236.69)"
+685,69443,United Healthcare Insurance Company,TN,N/E,$-,"$1,962,995.16"
+686,82120,Humana Insurance Company,TN,"$8,501,816.89","$618,404.60","$(2,645,066.63)"
+687,83463,Federated Mutual Insurance Company,TN,N/E,$-,"$414,552.78"
+688,93222,Humana Health Plan. Inc.,TN,$0.00,$-,"$(529,713.13)"
+689,99248,Cigna Health and Life Insurance Company,TN,"$962,071.92","$1,397,613.95",$-
+690,19046,Federated Mutual Insurance Company,TX,N/E,$-,"$(15,045.63)"
+691,26539,"SHA, LLC DBA First Care Health Plans",TX,"$3,006,003.71","$1,137,907.19","$(926,124.88)"
+692,27248,"Community Health Choice, Inc.",TX,"$5,344,701.29","$(36,084,527.66)",$-
+693,28020,Time Insurance Company,TX,"$17,972,249.76","$13,466,856.60","$298,871.94"
+694,29418,Celtic Insurance Company,TX,$0.00,"$6,632.38",$-
+695,30609,"Memorial Hermann Health Insurance Company, Inc.",TX,"$47,199.48","$142,237.30","$(4,900,934.99)"
+696,32673,"Humana Health Plan of Texas, Inc.",TX,"$51,295,201.04","$(26,986,914.17)","$(2,173,306.64)"
+697,33602,Blue Cross Blue Shield of Texas,TX,"$636,984,705.00","$38,571,557.86","$11,386,899.21"
+698,37755,Insurance Company of Scott & White,TX,"$476,832.99","$(1,613,428.88)",$-
+699,40220,"United Healthcare of Texas, Inc.",TX,N/E,$-,"$(2,135,148.22)"
+700,40788,Scott and White Health Plan,TX,"$6,991,418.55","$(13,412,865.64)","$(4,512,866.63)"
+701,41541,"Memorial Hermann Health Plan, Inc.",TX,$0.00,"$(43,008.69)","$(39,452.12)"
+702,41549,Southwest Life and Health Ins Comp,TX,N/E,$-,"$79,525.12"
+703,45125,Nippon Life Insurance Company of America,TX,N/E,$-,"$24,103.59"
+704,45786,Molina Healthcare of Texas,TX,"$2,013,053.67","$(4,116,190.69)",$-
+705,46224,"Community First Health Plans, Inc.",TX,"$598,890.83","$694,470.34",$-
+706,53799,Freedom Life Insurance,TX,"$939,694.86","$808,134.93",$-
+707,55409,Cigna Health and Life Insurance Company,TX,"$42,003,359.11","$53,407,229.68",$-
+708,58483,John Alden Life Insurance Company,TX,N/E,$-,"$(588,168.10)"
+709,58840,Aetna Health Inc. (a TX corp.),TX,N/E,$-,"$(139,428.93)"
+710,63141,Humana Insurance Company,TX,"$22,961,195.74","$16,542,107.09","$(1,192,747.03)"
+711,63509,"Valley Baptist Health Plans, dba of VBIC",TX,"$51,119.55","$(170,079.29)","$(373,334.92)"
+712,70619,United Healthcare Life Insurance Company,TX,"$11,906,450.88","$5,956,388.28",$-
+713,71837,"Sendero Health Plans, Inc.",TX,"$1,494,250.38","$(4,376,813.02)",$-
+714,81795,USAble Mutual Insurance Company,TX,N/E,$-,"$(96,511.51)"
+715,85947,All Savers Insurance Company,TX,"$40,096,514.70","$(28,130,267.10)","$21,102.91"
+716,87226,Superior Health Plan,TX,"$1,216,649.13","$(5,580,967.25)",$-
+717,91716,Aetna Life Insurance Company,TX,"$19,077,598.96","$(10,218,459.31)","$4,559,477.87"
+718,92224,National Health Insurance Company,TX,$0.00,$-,"$(173,037.07)"
+719,98809,United Healthcare Insurance Company,TX,N/E,$-,"$896,126.05"
+720,18167,Molina Healthcare of Utah,UT,"$1,295,181.45","$(2,854,734.71)",$-
+721,21400,National Foundation Life Insurance,UT,$0.00,"$(3,711.09)",$-
+722,22013,Regence BlueCross BlueShield of Utah,UT,"$4,740,413.21","$1,629,776.02","$(1,352,263.41)"
+723,27619,Arches Mutual Insurance Company,UT,"$13,281,090.66","$(13,206,183.16)","$250,109.00"
+724,29031,National Health Insurance Company,UT,$0.00,$-,"$(896,025.25)"
+725,34541,Bridge Span Health Company,UT,"$3,262,555.12","$(2,946,127.55)",$-
+726,38927,Altius Health Plans Inc.,UT,"$2,271,988.13","$(3,519,378.66)","$(991,146.89)"
+727,43129,United Healthcare Life Insurance Company,UT,"$119,171.57","$47,918.32",$-
+728,44526,Time Insurance Company,UT,"$157,807.06","$214,883.20",$-
+729,46958,Humana Insurance Company,UT,"$4,094,943.28","$3,170,521.45","$(414,144.63)"
+730,48588,Aetna Life Insurance Company,UT,N/E,$-,"$(20,990.46)"
+731,56764,"Humana Medical Plan of Utah, Inc.",UT,"$2,401,586.97","$(12,348,265.88)",$-
+732,66413,"United Healthcare of Utah, Inc.",UT,N/E,$-,"$170,324.39"
+733,68781,Select Health,UT,"$45,753,380.60","$29,815,302.00","$2,775,857.47"
+734,80043,WMI Mutual Insurance Company,UT,N/E,$-,"$14,668.04"
+735,97462,United Healthcare Insurance Company,UT,N/E,$-,"$463,611.69"
+736,10207,"CareFirst Blue Choice, Inc.",VA,"$9,093,733.33","$(4,690,047.91)","$(4,863,412.73)"
+737,12028,Innovation Health Insurance Company,VA,"$9,720,705.61","$(9,421,914.58)","$2,094,829.83"
+738,13433,Federated Mutual Insurance Company,VA,N/E,$-,"$(1,377,421.98)"
+739,15668,"Piedmont Community HealthCare, Inc.",VA,"$1,361,288.18","$435,467.30","$403,667.61"
+740,16064,"Anthem Health Plans of Virginia, Inc.",VA,N/E,$-,"$27,889,957.52"
+741,20507,Optima Health Plan,VA,"$17,769,218.56","$42,170,520.55","$6,375,531.18"
+742,24251,"Optimum Choice, Inc.",VA,N/E,$-,"$(358,194.95)"
+743,25978,United Healthcare Insurance Company,VA,N/E,$-,"$(7,578,909.62)"
+744,38234,Aetna Life Insurance Company,VA,"$5,895,017.54","$4,680,612.75","$(3,364,075.44)"
+745,40308,Group Hospitalization and Medical Services Inc.,VA,"$8,431,776.30","$11,441,513.48","$9,435,152.40"
+746,41892,Golden Rule Insurance Company,VA,"$127,964.70","$263,834.56",$-
+747,50102,Time Insurance Company,VA,"$4,361,533.95","$4,298,069.65","$143,381.55"
+748,50727,Humana Insurance Company,VA,"$1,723,539.51","$43,710.21",$-
+749,66663,United Healthcare Life Insurance Company,VA,"$2,604,337.93","$2,658,704.33",$-
+750,86443,"Innovation Health Plan, Inc.",VA,N/E,$-,"$(5,954,916.70)"
+751,88380,"Health Keepers, Inc.",VA,"$77,211,953.05","$(13,597,420.40)","$(2,356,689.22)"
+752,89242,Optima Health Insurance Company,VA,$0.00,"$(4,260.56)","$1,471,462.99"
+753,89498,"United Healthcare Plan of the River Valley, Inc.",VA,N/E,$-,"$(539,063.52)"
+754,93187,Aetna Health Inc. (a PA corp.),VA,N/E,$-,"$(8,533,686.28)"
+755,93848,Coventry Health & Life Insurance Co.,VA,N/E,$-,"$(1,496,683.75)"
+756,95185,"Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",VA,"$10,975,922.03","$(39,306,435.97)","$(1,753,706.42)"
+757,96835,John Alden Life Insurance Company,VA,N/E,$-,"$(108,864.52)"
+758,99663,"Coventry Health Care of Virginia, Inc.",VA,"$14,307,294.04","$1,027,646.58","$(9,528,358.12)"
+759,18581,Community Health Plan of Washington,WA,"$3,148,779.12","$6,748,059.74",$-
+760,18699,United Healthcare Insurance Company,WA,N/E,$-,"$(2,911,146.39)"
+761,23371,Kaiser Foundation Healthplan of the NW,WA,"$2,087,506.13","$1,500,350.01","$465,626.66"
+762,25768,"Group Health Options, Inc.",WA,"$5,545,446.72","$84,523.22","$734,961.44"
+763,34673,Aetna Life Insurance Company,WA,N/E,$-,"$(4,146,219.54)"
+764,36026,"Health Net Health Plan of Oregon, Inc.",WA,N/E,$-,"$(757,462.93)"
+765,38498,Life Wise Health Plan of WA,WA,"$23,278,792.62","$(22,413,845.18)",$-
+766,42277,Time Insurance Company,WA,"$2,762,865.63","$1,137,459.68",$-
+767,43861,"United Healthcare of Washington, Inc.",WA,N/E,$-,"$137,027.09"
+768,49831,Premera Blue Cross,WA,"$60,171,189.80","$18,747,955.38","$(16,440,582.27)"
+769,53732,Bridge Span Health Company,WA,"$5,157,667.99","$3,046,204.15",$-
+770,61836,Coordinated Care Corporation,WA,"$4,033,746.83","$(34,636,348.44)",$-
+771,65907,"Moda Health Plan, Inc.",WA,"$15,995,097.81","$6,134,914.63","$(558,678.76)"
+772,69364,Asuris Northwest Health,WA,"$2,095,416.08","$1,091,276.01","$4,486,607.33"
+773,71281,Regence BlueCross BlueShield Of Oregon,WA,"$2,905,564.38","$1,286,238.74","$821,632.25"
+774,80473,Group Health Cooperative,WA,"$15,413,893.81","$(9,944,277.00)","$(3,747,729.11)"
+775,84481,"Molina Healthcare of Washington, Inc.",WA,"$1,184,205.29","$1,537,384.84",$-
+776,87718,Regence BlueShield,WA,"$32,444,683.34","$25,715,713.27","$21,915,964.21"
+777,94388,Trustmark Life Insurance Company,WA,$0.00,"$(35,609.15)",$-
+778,16245,Group Health Cooperative of Eau Claire,WI,N/E,$-,"$(172,607.47)"
+779,20173,HealthPartners Insurance Company,WI,N/E,$-,"$(228,049.85)"
+780,22554,US Health and Life Insurance Company,WI,N/E,$-,"$(3,848.16)"
+781,32754,Managed Health Services Insurance Corporation,WI,"$76,534.95","$346,192.62",$-
+782,35334,Mercy Care Insurance Company,WI,N/E,$-,"$(585,670.39)"
+783,37833,Unity Health Plans Insurance Corporation,WI,"$7,185,046.24","$5,592,708.14","$832,440.01"
+784,38166,"Security Health Plan of Wisconsin, Inc.",WI,"$31,487,056.36","$(10,390,482.30)","$(900,331.90)"
+785,38345,Dean Health Plan,WI,"$18,757,853.83","$(10,372,087.89)","$(209,529.32)"
+786,38752,Aetna Life Insurance Company,WI,N/E,$-,"$(3,018,035.30)"
+787,39924,All Savers Insurance Company,WI,"$9,881,120.03","$5,293,092.41","$464,103.71"
+788,47342,Health Tradition Health Plan,WI,"$5,973,322.11","$(4,413,566.24)","$(781,266.69)"
+789,52697,"Molina Healthcare of Wisconsin, Inc.",WI,"$13,401,718.71","$(4,595,003.52)",$-
+790,55103,Humana Wisconsin Health Org. Ins. Corp.,WI,$0.00,$-,"$707,127.26"
+791,57637,Medica Insurance Company,WI,N/E,$-,"$355,871.33"
+792,57845,Medica Health Plans of Wisconsin,WI,"$5,114,750.87","$(2,183,267.46)",$-
+793,58326,"Mercy Care HMO, Inc.",WI,"$1,039,637.70","$686,857.72","$224,237.16"
+794,58564,Physicians Plus Insurance Corporation,WI,"$166,156.71","$175,983.58","$(629,677.53)"
+795,59158,United Healthcare Insurance Company,WI,N/E,$-,"$11,297,157.89"
+796,64772,Medical Associates Health Plans,WI,N/E,$-,"$(696,241.56)"
+797,69424,Pekin Life Insurance Company,WI,N/E,$-,"$(5,359.01)"
+798,79475,Compcare Health Serv Ins Co(Anthem BCBS),WI,"$11,971,973.11","$9,974,580.81","$(212,388.05)"
+799,80180,"United Healthcare of Wisconsin, Inc.",WI,N/E,$-,"$(535,453.60)"
+800,81413,Network Health Plan,WI,"$24,525.62","$294,393.41","$(54,663.83)"
+801,81974,Wisconsin Physicians Svc Insurance Corp,WI,"$18,524,573.80","$5,160,942.97","$183,981.20"
+802,84670,"WPS Health Plan, Inc.",WI,"$12,630,278.43","$1,825,501.39","$(1,158,565.40)"
+803,87416,Common Ground Healthcare Cooperative,WI,"$32,249,872.02","$194,955.10","$(2,056,055.51)"
+804,89106,United Healthcare Life Insurance Company,WI,"$2,293,913.16","$(1,371,221.77)",$-
+805,90028,BCBS of Wisconsin(Anthem BCBS),WI,N/E,$-,"$(163,325.20)"
+806,91058,"Gundersen Health Plan, Inc.",WI,"$5,246,929.26","$(855,334.89)","$(6,517,699.11)"
+807,91604,Humana Insurance Company,WI,"$1,895,119.37","$596,881.13","$1,292,326.01"
+808,92708,Federated Mutual Insurance Company,WI,N/E,$-,"$678,006.47"
+809,94073,Time Insurance Company,WI,"$3,360,528.96","$2,979,855.24","$405,231.13"
+810,94529,Group Health Cooperative- SCW,WI,"$486,417.48","$1,059,019.73","$1,443,408.15"
+811,94720,John Alden Life Insurance Company,WI,N/E,$-,"$44,877.57"
+812,14414,Federated Mutual Insurance Company,WV,N/E,$-,"$109,960.53"
+813,26661,Coventry Health & Life Insurance Co.,WV,N/E,$-,"$(516,628.21)"
+814,31274,Highmark Blue Cross Blue Shield West Virginia,WV,"$33,457,193.36","$(71,601.45)","$1,261,985.57"
+815,33577,"Coventry Health Care of West Virginia, Inc.",WV,$0.00,$(435.24),"$(69,535.77)"
+816,35992,Time Insurance Company,WV,"$431,491.97","$382,756.67","$(39,194.65)"
+817,44434,Aetna Health Inc. (a PA corp.),WV,$0.00,"$(295,477.04)","$(562,420.22)"
+818,48421,John Alden Life Insurance Company,WV,N/E,$-,"$224,713.34"
+819,50318,Aetna Life Insurance Company,WV,N/E,$-,"$154,836.76"
+820,59772,THP Insurance Company,WV,N/E,$-,"$(62,874.74)"
+821,72982,The Health Plan of the Upper Ohio Valley,WV,"$11,649.30","$(15,242.90)","$(553,884.06)"
+822,77060,United Healthcare Insurance Company,WV,N/E,$-,"$(100,035.49)"
+823,95628,"Optimum Choice, Inc.",WV,N/E,$-,"$153,076.85"
+824,11269,Blue Cross Blue Shield of Wyoming,WY,"$12,716,956.74","$1,438,732.96","$(735,310.56)"
+825,29941,Time Insurance Company,WY,"$1,888,415.67","$1,254,913.51","$646,260.58"
+826,47823,Freedom Life Insurance,WY,"$89,807.28","$18,632.31",$-
+827,49290,Celtic Insurance Company,WY,$0.00,"$(7,210.87)",$-
+828,49714,United Healthcare Insurance Company,WY,N/E,$-,"$(325,977.41)"
+829,53189,WINhealth Partners,WY,"$8,575,326.66","$(2,626,798.16)","$(31,069.24)"
+830,72208,John Alden Life Insurance Company,WY,N/E,$-,"$599,763.48"
+831,79022,Altius Health Plans Inc.,WY,$0.00,"$(78,269.70)","$(153,666.93)"
