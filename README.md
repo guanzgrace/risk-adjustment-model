@@ -4,7 +4,7 @@
 
 The primary goal of this project is to make Centers for Medicare & Medicaid Services' (CMS) Medical Loss Ratio (MLR) data regarding the Affordable Care Act (ACA) more easily accessible to the public. A secondary goal of this project is to do a prelimary analysis of the data and attempt to duplicate CMS statistics on this ACA data. We search for statistical outliers and any correlations between premiums and transfers or spending and transfers, and we calculate year to year per person risk adjustment payment.
 
-This project was undertaken as part of ORF 375: Independent Research Project in Fall 2017, under the guidance of Professor Mark Braverman.
+This project was undertaken as part of ORF 375: Independent Research Project in Fall 2017, under the guidance of Professor Mark Braverman. With thanks to Jeremie Lumbroso for helping scrape CMS data from their website.
 
 ## Breakdown of Repository
 
@@ -12,7 +12,7 @@ Subfolders represent different facets of the risk transfer formula that we attem
 
 ### 0_Data-ETL folder: 
 
-The 0_Data-ETL folder contains a Python data analysis of medical loss ratio reported data through Excel. We found that Excel data is not the most accurate, and each state's transfers do not add up to 0. However, the PDF that we cross-checked the results with is more accurate and each state's transfers do sum to 0. Here, we use a Python script to create CSV files from the accurate PDF data begin to analyze that data.
+The 0_Data-ETL folder contains a Python data analysis of medical loss ratio reported data through Excel. We found that Excel data is not the most accurate, and each state's transfers do not add up to 0. However, the PDF that we cross-checked the results with is more accurate and each state's transfers do sum to 0. Here, we use a Python script to create CSV files from the accurate PDF data.
 
 ### 1_Data-Analysis folder:
 
@@ -49,9 +49,10 @@ I would eventually like to fully implement the AV Calculations and/or the full R
 11/19/17 | Data cleaning to relevant CSV files | **Completed**
 . | Github cleaning | **Completed**
 . | Documentation | **Completed**
-11/26/17 | Data cleaning II | **In Progress**
-. | A few samples of calculated data | **In Progress**
-12/3/17 | Statistical Analysis | .
+11/26/17 | Data cleaning II | **Completed**
+12/3/17 | Parse individual insurer data | .
+. | Introductory statistical analysis | .
+. | A few samples of calculated data | .
 . | Year to year per person payment | .
 12/10/17 | Redo CMS statistics, Correlation analysis | .
 12/17/17 | IW talk | .
