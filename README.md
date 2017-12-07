@@ -81,12 +81,16 @@ I would eventually like to fully implement the AV Calculations and/or the full R
 . | Github cleaning | **Completed**
 . | Documentation | **Completed**
 11/26/17 | Data cleaning II | **Completed**
-12/3/17 | Parse individual insurer data | .
-. | Introductory statistical analysis | .
+12/3/17 | Parse individual insurer data | **Completed**
+. | Download all Excel data from CMS | **Completed**
+. | Merge all Excel data into one CSV | **Completed**
+. | Manually adjust Excel data to be parseable | **Completed**
+12/10/17 | Introductory statistical analysis | .
+. | Final data cleaning: delete duplicates, merge PDF data | .
 . | A few samples of calculated data | .
 . | Year to year per person payment | .
-12/10/17 | Redo CMS statistics, Correlation analysis | .
-12/17/17 | IW talk | .
-. | Project site | .
-1/XX/2018 | Paper complete | .
-. | Poster Presentation complete | .
+. | Redo CMS statistics, Correlation analysis | .
+12/14/17 | IW talk | .
+Jan 2018 | Project site | .
+. | Paper complete | .
+. | Final GitHub repo | .
