@@ -85,12 +85,13 @@ I would eventually like to fully implement the AV Calculations and/or the full R
 . | Download all Excel data from CMS | **Completed**
 . | Merge all Excel data into one CSV | **Completed**
 . | Manually adjust Excel data to be parseable | **Completed**
-12/10/17 | Introductory statistical analysis | .
-. | Final data cleaning: delete duplicates, merge PDF data | .
-. | A few samples of calculated data | .
+12/10/17 | Introductory statistical analysis | **Completed**
+. | Final data cleaning: delete duplicates, merge PDF data | **Completed**
+. | A few samples of calculated data | **Completed**
 . | Year to year per person payment | .
 . | Redo CMS statistics, Correlation analysis | .
 12/14/17 | IW talk | .
 Jan 2018 | Project site | .
-. | Paper complete | .
+. | Semester 1 Paper complete | .
 . | Final GitHub repo | .
+
