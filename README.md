@@ -51,12 +51,12 @@ Here, we discover that the PDF file contains values for 833 companies whereas th
 <a name="b3"></a>
 ### iv. 4_Insurer-Data-ETL:
 
-Read_Insurer_File_2015 is a Python script that reads in the data from an insurer report and can output the HIOS ID, name of the company, state in which the company operates, member months (individual and small group), reinsurance, and risk adjustment (individual and small group).
+Read_Insurer_File_2015 is a Python script that reads in the data from an insurer report and can output the HIOS ID, name of the company, state in which the company operates, member months (individual and small group), reinsurance, and risk adjustment (individual and small group). We expanded this to Read_Insurer_File_More_Data-FINAL, which is a Python script that scrapes every field from sheets 0, 1, and 2 from the Excel file.
 
 <a name="b4"></a>
 ### v. 5_Insurer-Data-Analysis:
 
-The goal here is to look at statistical outliers, any correlations between premiums and transfers or spending and transfers, and year to year per person risk adjustment payment.
+The goal here is to look at statistical outliers, any correlations between premiums and transfers or spending and transfers, and year to year per person risk adjustment payment. 
 
 <a name="b9"></a>
 ### vi. 6_Misc folder:
@@ -88,9 +88,9 @@ I would eventually like to fully implement the AV Calculations and/or the full R
 12/10/17 | Introductory statistical analysis | **Completed**
 . | Final data cleaning: delete duplicates, merge PDF data | **Completed**
 . | A few samples of calculated data | **Completed**
-. | Year to year per person payment | .
-. | Redo CMS statistics, Correlation analysis | .
-12/14/17 | IW talk | .
+. | Year to year per person payment | **Completed**
+. | Redo CMS statistics, Correlation analysis | **Completed**
+12/14/17 | IW talk | **Completed**
 Jan 2018 | Project site | .
 . | Semester 1 Paper complete | .
 . | Final GitHub repo | .
