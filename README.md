@@ -91,7 +91,8 @@ I would eventually like to fully implement the AV Calculations and/or the full R
 . | Year to year per person payment | **Completed**
 . | Redo CMS statistics, Correlation analysis | **Completed**
 12/14/17 | IW talk | **Completed**
-Jan 2018 | Project site | .
-. | Semester 1 Paper complete | .
-. | Final GitHub repo | .
+1/11/18 | Semester 1 Paper complete | **Completed**
+. | Final GitHub repo | **Completed**
+
+Deliverables are in the 7_Deliverables folder.
 
